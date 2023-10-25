@@ -1,0 +1,48 @@
+2023-10-03 16:41:19,949 - INFO - Exécution de write_to_db avec période daily et mode  réussie.
+2023-10-03 16:41:19,950 - INFO - Exécution de export_to_csv avec période daily et mode  réussie.
+2023-10-03 16:41:19,951 - INFO - Exécution de generate_graphs avec période daily et mode  réussie.
+2023-10-03 16:41:19,951 - INFO - Exécution de local_archive avec période daily et mode  réussie.
+2023-10-03 16:41:19,952 - INFO - Exécution de send_email avec période daily et mode  réussie.
+2023-10-03 16:41:19,952 - INFO - Génération des statistiques et exécution des programmes externes réussies.
+2023-10-03 16:42:41,523 - INFO - Exécution de write_to_db avec période daily et mode  réussie.
+2023-10-03 16:42:41,524 - INFO - Exécution de export_to_csv avec période daily et mode  réussie.
+2023-10-03 16:42:41,525 - INFO - Exécution de generate_graphs avec période daily et mode  réussie.
+2023-10-03 16:42:41,525 - INFO - Exécution de local_archive avec période daily et mode  réussie.
+2023-10-03 16:42:41,526 - INFO - Exécution de send_email avec période daily et mode  réussie.
+2023-10-03 16:42:41,526 - INFO - Génération des statistiques et exécution des programmes externes réussies.
+2023-10-03 16:43:48,284 - INFO - Exécution de write_to_db avec période daily et mode  réussie.
+2023-10-03 16:43:48,316 - INFO - Exécution de export_to_csv avec période daily et mode  réussie.
+2023-10-03 16:43:48,350 - INFO - Exécution de generate_graphs avec période daily et mode  réussie.
+2023-10-03 16:43:48,385 - INFO - Exécution de local_archive avec période daily et mode  réussie.
+2023-10-03 16:43:48,417 - INFO - Exécution de send_email avec période daily et mode  réussie.
+2023-10-03 16:43:48,417 - INFO - Génération des statistiques et exécution des programmes externes réussies.
+2023-10-03 16:44:01,677 - INFO - Exécution de write_to_db avec période daily et mode coincoin réussie.
+2023-10-03 16:44:01,714 - INFO - Exécution de export_to_csv avec période daily et mode coincoin réussie.
+2023-10-03 16:44:01,746 - INFO - Exécution de generate_graphs avec période daily et mode coincoin réussie.
+2023-10-03 16:44:01,779 - INFO - Exécution de local_archive avec période daily et mode coincoin réussie.
+2023-10-03 16:44:01,811 - INFO - Exécution de send_email avec période daily et mode coincoin réussie.
+2023-10-03 16:44:01,812 - INFO - Génération des statistiques et exécution des programmes externes réussies.
+2023-10-03 16:44:10,506 - INFO - Exécution de write_to_db avec période daily et mode force réussie.
+2023-10-03 16:44:10,537 - INFO - Exécution de export_to_csv avec période daily et mode force réussie.
+2023-10-03 16:44:10,570 - INFO - Exécution de generate_graphs avec période daily et mode force réussie.
+2023-10-03 16:44:10,605 - INFO - Exécution de local_archive avec période daily et mode force réussie.
+2023-10-03 16:44:10,637 - INFO - Exécution de send_email avec période daily et mode force réussie.
+2023-10-03 16:44:10,637 - INFO - Génération des statistiques et exécution des programmes externes réussies.
+2023-10-03 16:44:15,810 - INFO - Exécution de write_to_db avec période daily et mode test réussie.
+2023-10-03 16:44:15,842 - INFO - Exécution de export_to_csv avec période daily et mode test réussie.
+2023-10-03 16:44:15,877 - INFO - Exécution de generate_graphs avec période daily et mode test réussie.
+2023-10-03 16:44:15,910 - INFO - Exécution de local_archive avec période daily et mode test réussie.
+2023-10-03 16:44:15,943 - INFO - Exécution de send_email avec période daily et mode test réussie.
+2023-10-03 16:44:15,943 - INFO - Génération des statistiques et exécution des programmes externes réussies.
+2023-10-03 16:44:29,665 - INFO - Exécution de write_to_db avec période daily et mode test réussie.
+2023-10-03 16:44:29,698 - INFO - Exécution de export_to_csv avec période daily et mode test réussie.
+2023-10-03 16:44:29,731 - INFO - Exécution de generate_graphs avec période daily et mode test réussie.
+2023-10-03 16:44:29,765 - INFO - Exécution de local_archive avec période daily et mode test réussie.
+2023-10-03 16:44:29,797 - INFO - Exécution de send_email avec période daily et mode test réussie.
+2023-10-03 16:44:29,797 - INFO - Génération des statistiques et exécution des programmes externes réussies.
+2023-10-03 16:51:54,460 - INFO - Exécution de write_to_db avec période daily et mode  réussie.
+2023-10-03 16:51:54,509 - INFO - Exécution de export_to_csv avec période daily et mode  réussie.
+2023-10-03 16:51:54,553 - INFO - Exécution de generate_graphs avec période daily et mode  réussie.
+2023-10-03 16:51:54,596 - INFO - Exécution de local_archive avec période daily et mode  réussie.
+2023-10-03 16:51:54,640 - INFO - Exécution de send_email avec période daily et mode  réussie.
+2023-10-03 16:51:54,640 - INFO - Génération des statistiques et exécution des programmes externes réussies.

@@ -1,0 +1,6 @@
+{
+  "sliding_window": 60,
+  "activity_threshold": 5,
+  "pause_threshold": 10,
+  "save_interval": 60
+}

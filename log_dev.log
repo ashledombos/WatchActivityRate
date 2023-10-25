@@ -1,0 +1,14 @@
+2023-10-03 16:35:31,052 - INFO - Programme send_email appelé avec période daily et mode test.
+2023-10-03 16:40:03,685 - INFO - Programme send_email appelé avec période daily et mode normal.
+2023-10-03 16:40:08,268 - INFO - Programme send_email appelé avec période daily et mode force.
+2023-10-03 16:40:22,837 - INFO - Programme send_email appelé avec période daily et mode test.
+2023-10-03 16:43:48,278 - INFO - Programme write_to_db appelé avec période daily et mode normal.
+2023-10-03 16:43:48,311 - INFO - Programme export_to_csv appelé avec période daily et mode normal.
+2023-10-03 16:43:48,345 - INFO - Programme generate_graphs appelé avec période daily et mode normal.
+2023-10-03 16:43:48,381 - INFO - Programme local_archive appelé avec période daily et mode normal.
+2023-10-03 16:43:48,412 - INFO - Programme send_email appelé avec période daily et mode normal.
+2023-10-03 16:51:54,454 - INFO - Programme write_to_db appelé avec période daily et mode .
+2023-10-03 16:51:54,503 - INFO - Programme export_to_csv appelé avec période daily et mode .
+2023-10-03 16:51:54,548 - INFO - Programme generate_graphs appelé avec période daily et mode .
+2023-10-03 16:51:54,591 - INFO - Programme local_archive appelé avec période daily et mode .
+2023-10-03 16:51:54,634 - INFO - Programme send_email appelé avec période daily et mode .

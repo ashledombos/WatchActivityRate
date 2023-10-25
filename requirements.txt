@@ -1,0 +1,12 @@
+# Logging intégré dans Python, donc pas de package supplémentaire nécessaire
+# Gestion du temps et du système d'exploitation également intégrée dans Python
+
+# Pour la gestion des tâches planifiées
+schedule==1.1.0
+
+# Pour le monitoring du clavier et de la souris
+pynput==1.7.3
+
+# Pour le parsing de JSON (intégré dans Python, donc pas de package supplémentaire nécessaire)
+
+# Pour la gestion du multithreading (intégré dans Python, donc pas de package supplémentaire nécessaire)
