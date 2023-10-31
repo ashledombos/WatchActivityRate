@@ -1,6 +1,22 @@
 {
-  "sliding_window": 60,
-  "activity_threshold": 5,
-  "pause_threshold": 10,
-  "save_interval": 60
+  "sliding_window": 300,
+  "activity_duration_threshold": 10,
+  "pause_threshold": 5,
+  "save_interval": 60,
+  "daily": {
+    "enabled": true,
+    "schedule": "00:01"
+  },
+  "weekly": {
+    "enabled": true,
+    "schedule": "00:01"
+  },
+  "monthly": {
+    "enabled": true,
+    "schedule": "00:01"
+  },
+  "yearly": {
+    "enabled": true,
+    "schedule": "00:01"
+  }
 }

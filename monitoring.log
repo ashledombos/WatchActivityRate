@@ -31,3 +31,56 @@
 2023-10-25 12:37:39,223 - INFO - Signal received. Exiting gracefully...
 2023-10-25 12:38:27,940 - INFO - Starting activity monitoring... PID: 674908
 2023-10-25 12:38:30,343 - INFO - Signal received. Exiting gracefully...
+2023-10-27 14:16:30,434 - INFO - Démarrage de la surveillance des activités... PID : 134916
+2023-10-27 14:16:36,055 - INFO - Fonction de sortie propre appelée.
+2023-10-27 14:16:36,055 - INFO - Signal reçu. Arrêt propre...
+2023-10-27 16:38:03,280 - ERROR - Erreur dans le module de surveillance : 'ActivityMonitor' object has no attribute 'start_periodic_save'
+2023-10-27 16:38:45,215 - ERROR - Erreur dans le module de surveillance : 'ActivityMonitor' object has no attribute 'start_periodic_save'
+2023-10-27 16:39:16,651 - ERROR - Erreur dans le module de surveillance : 'ActivityMonitor' object has no attribute 'start_periodic_save'
+2023-10-27 16:43:00,943 - ERROR - Erreur inattendue : 'ActivityMonitor' object has no attribute 'start_periodic_save'
+2023-10-27 17:40:14,571 - ERROR - Erreur inattendue : 'ActivityMonitor' object has no attribute 'start_monitoring'
+2023-10-27 17:51:06,805 - INFO - Démarrage de la surveillance des activités... PID : 253737
+2023-10-27 17:51:15,168 - INFO - Fonction de sortie propre appelée.
+2023-10-27 17:51:15,169 - INFO - Signal reçu. Arrêt propre...
+2023-10-27 17:51:20,178 - ERROR - Erreur inattendue : name 'sqlite3' is not defined
+2023-10-27 18:05:30,787 - INFO - Démarrage de la surveillance des activités... PID : 261742
+2023-10-27 18:05:41,434 - INFO - Fonction de sortie propre appelée.
+2023-10-27 18:05:41,434 - INFO - Signal reçu. Arrêt propre...
+2023-10-27 18:33:30,025 - ERROR - Erreur inattendue : 'ActivityMonitor' object has no attribute 'start_periodic_save'
+2023-10-27 18:34:20,377 - INFO - Démarrage de la surveillance des activités... PID : 277828
+2023-10-27 18:34:21,398 - INFO - Fonction de sortie propre appelée.
+2023-10-27 18:34:21,399 - INFO - Signal reçu. Arrêt propre...
+2023-10-27 18:34:35,363 - ERROR - Erreur inattendue : 'ActivityMonitor' object has no attribute 'start_periodic_save'
+2023-10-27 18:36:40,298 - INFO - Démarrage de la surveillance des activités... PID : 279174
+2023-10-27 18:37:03,628 - INFO - Fonction de sortie propre appelée.
+2023-10-27 18:37:03,628 - INFO - Signal reçu. Arrêt propre...
+2023-10-31 10:59:50,202 - INFO - Démarrage de la surveillance des activités... PID : 19900
+2023-10-31 10:59:56,147 - INFO - Fonction de sortie propre appelée.
+2023-10-31 10:59:56,147 - INFO - Signal reçu. Arrêt propre...
+2023-10-31 11:00:02,876 - INFO - Démarrage de la surveillance des activités... PID : 20057
+2023-10-31 11:00:13,499 - INFO - Fonction de sortie propre appelée.
+2023-10-31 11:00:13,500 - INFO - Signal reçu. Arrêt propre...
+2023-10-31 11:01:44,809 - INFO - Démarrage de la surveillance des activités... PID : 21016
+2023-10-31 11:02:04,947 - INFO - Fonction de sortie propre appelée.
+2023-10-31 11:02:04,948 - INFO - Signal reçu. Arrêt propre...
+2023-10-31 11:41:29,700 - ERROR - Erreur inattendue : Paramètre manquant dans le fichier de configuration : activity_duration_threshold
+2023-10-31 11:42:08,984 - INFO - Démarrage de la surveillance des activités... PID : 43235
+2023-10-31 14:13:35,940 - INFO - Fonction de sortie propre appelée.
+2023-10-31 14:13:35,940 - INFO - Signal reçu. Arrêt propre...
+2023-10-31 14:13:43,274 - INFO - Démarrage de la surveillance des activités... PID : 126211
+2023-10-31 14:17:16,179 - INFO - Fonction de sortie propre appelée.
+2023-10-31 14:17:16,180 - INFO - Signal reçu. Arrêt propre...
+2023-10-31 14:18:13,573 - INFO - Démarrage de la surveillance des activités... PID : 128705
+2023-10-31 14:18:18,395 - INFO - Fonction de sortie propre appelée.
+2023-10-31 14:18:18,395 - INFO - Signal reçu. Arrêt propre...
+2023-10-31 14:23:09,301 - INFO - Démarrage de la surveillance des activités... PID : 131451
+2023-10-31 14:23:15,066 - INFO - Fonction de sortie propre appelée.
+2023-10-31 14:23:15,066 - INFO - Signal reçu. Arrêt propre...
+2023-10-31 14:23:18,529 - INFO - Fonction de sortie propre appelée.
+2023-10-31 14:23:18,530 - INFO - Signal reçu. Arrêt propre...
+2023-10-31 15:50:46,275 - INFO - Démarrage de la surveillance des activités... PID : 180142
+2023-10-31 15:50:57,303 - INFO - Fonction de sortie propre appelée.
+2023-10-31 15:50:57,304 - INFO - Signal reçu. Arrêt propre...
+2023-10-31 15:59:27,382 - INFO - Démarrage de la surveillance des activités... PID : 185029
+2023-10-31 15:59:40,080 - INFO - Fonction de sortie propre appelée.
+2023-10-31 15:59:40,080 - INFO - Signal reçu. Arrêt propre...

@@ -17,7 +17,8 @@ Le système utilise une "fenêtre glissante" pour évaluer l'activité récente.
 ### Seuil d'Activité
 
 Le "seuil d'activité" est le nombre minimum d'événements qui doivent être enregistrés dans la fenêtre glissante pour que l'activité soit considérée comme valide. Ce seuil peut être ajusté en fonction des besoins de l'utilisateur.
-Seuil de Pause
+
+### Seuil de Pause
 
 Le "seuil de pause" est une durée maximale entre deux événements consécutifs pour qu'ils soient considérés comme faisant partie de la même "session" d'activité. Si la durée entre deux événements dépasse ce seuil, une nouvelle session d'activité est créée.
 

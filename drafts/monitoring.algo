@@ -1,0 +1,29 @@
+Voici un résumé succinct des fonctionnalités clés du code fourni, organisé de manière algorithmique :
+
+1. **Importation des bibliothèques et des classes nécessaires** :
+   - Bibliothèques standard pour la gestion du temps, la journalisation, le threading, etc.
+   - Bibliothèque `pynput` pour le monitoring des activités clavier et souris.
+   - Classe `DatabaseManager` depuis `db_operations.py` pour la gestion de la base de données.
+
+2. **Validation de la configuration** (`validate_config`):
+   - Vérification de la présence de tous les paramètres nécessaires dans le fichier de configuration.
+
+3. **Définition de la classe `ActivityMonitor`** :
+   - **Initialisation** (`__init__`) : Initialisation des variables, création d'un objet `DatabaseManager`, et configuration de la base de données.
+   - **Monitoring des activités** (`on_key_activity`, `on_mouse_activity`) : Callbacks pour enregistrer les activités clavier et souris.
+   - **Validation de l'activité** (`is_valid_activity`) : Vérification de la validité d'une activité en fonction de la fenêtre glissante et du seuil d'activité.
+   - **Enregistrement des activités** (`record_activity`) : Enregistrement des activités clavier et souris, avec gestion des horodatages de début et de fin.
+   - **Démarrage/Arrêt du monitoring** (`start_monitoring`, `stop_monitoring`) : Gestion des écouteurs d'événements clavier et souris.
+   - **Sauvegarde des données** (`save_data_to_db`) : Sauvegarde des données d'activité dans la base de données.
+   - **Sauvegarde périodique** (`periodic_save`, `start_periodic_save`, `stop_periodic_save`) : Gestion de la sauvegarde périodique des données d'activité dans un thread séparé.
+
+4. **Gestion de la sortie propre** (`graceful_exit`) :
+   - Arrêt des threads et sauvegarde des données restantes en cas d'interruption du programme.
+
+5. **Point d'entrée du programme** (`if __name__ == "__main__":`) :
+   - Lecture et validation de la configuration.
+   - Création et démarrage d'une instance de `ActivityMonitor`.
+   - Configuration des signaux pour une sortie propre.
+   - Boucle principale du programme qui maintient le programme en cours d'exécution.
+
+Les risques potentiels pourraient inclure des exceptions non gérées, des erreurs de synchronisation (dans l'accès à `self.activity_data` ou à la base de données), ou des problèmes de performance si la fréquence des événements clavier/souris est très élevée.
