@@ -1,8 +1,7 @@
 {
-  "sliding_window": 300,
-  "activity_duration_threshold": 10,
-  "pause_threshold": 5,
-  "save_interval": 60,
+  "periodic_save_minutes": 1,
+  "activity_duration_threshold": 5,
+  "debug_mode": true,
   "daily": {
     "enabled": true,
     "schedule": "00:01"
