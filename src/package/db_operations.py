@@ -8,8 +8,12 @@ class DatabaseManager:
     """
     DB_NAME = 'activity_data.db'
 
-    def __init__(self):
+class DatabaseManager:
+    """Gestionnaire de la base de données pour l'application de monitoring d'activité."""
+
+    def __init__(self, db_name='activity_data.db'):
         """Initialise la base de données en appelant la méthode de configuration."""
+        self.DB_NAME = db_name
         self.configure_db()
 
     def configure_db(self):
@@ -57,6 +61,28 @@ class DatabaseManager:
             cursor = conn.cursor()
             cursor.execute(query, params)
             return [dict(row) for row in cursor.fetchall()]
+
+    def get_last_activity(self):
+        """Récupère la dernière entrée d'activité de la base de données."""
+        with sqlite3.connect(self.DB_NAME) as conn:
+            cursor = conn.cursor()
+            cursor.execute("SELECT * FROM activity ORDER BY id DESC LIMIT 1")
+            last_entry = cursor.fetchone()
+            if last_entry:
+                return {
+                    'id': last_entry[0],
+                    'start': last_entry[1],
+                    'end': last_entry[2]
+                }
+            else:
+                return None
+
+    def update_activity_end_time(self, activity_id, new_end_time):
+        """Mise à jour de l'heure de fin pour une activité donnée."""
+        with sqlite3.connect(self.DB_NAME) as conn:
+            cursor = conn.cursor()
+            cursor.execute("UPDATE activity SET end = ? WHERE id = ?", (new_end_time, activity_id))
+            conn.commit()
 
     def clean_old_data(self, age_threshold):
         """Supprime les données plus anciennes qu'un certain seuil.
