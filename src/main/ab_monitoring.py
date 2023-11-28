@@ -1,4 +1,4 @@
-import json
+import toml
 import time
 import logging
 import threading
@@ -8,7 +8,7 @@ from pynput import keyboard, mouse
 from datetime import datetime, timedelta
 from logging.handlers import RotatingFileHandler
 
-from .db_operations import DatabaseManager
+from ..package.db_operations import DatabaseManager
 
 def validate_config(config):
     """Valide la configuration en vérifiant la présence des paramètres nécessaires et leurs valeurs."""
@@ -34,7 +34,7 @@ class ActivityMonitor:
         
         Note: un événement correspond à un clic, une touche appuyée ou un scroll.
         """
-        logging.debug("Chargement du fichier de configuration json.")
+        logging.debug("Chargement du fichier de configuration toml.")
         self.config = config
         self.activity_data = []
         self.exit_event = threading.Event()
@@ -177,11 +177,12 @@ def graceful_exit(signum, frame):
 # Point d'entrée du programme
 if __name__ == "__main__":
     try:
-        with open('config.json', 'r') as f:
-            config = json.load(f)
+        with open('config/config.toml', 'r') as f:
+            config = toml.load(f)
 
-        log_file = "monitoring.log"
+        log_file = "logs/ab.log"
         log_level = logging.DEBUG if config.get('debug_mode') else logging.INFO
+        os.makedirs(os.path.dirname(log_file), exist_ok=True)
 
         # Essayer de configurer le logging et attraper toute exception
         try:
@@ -216,10 +217,9 @@ if __name__ == "__main__":
             except KeyboardInterrupt:
                 graceful_exit(None, None)
                 
-    except json.JSONDecodeError:
-        print("Erreur de décodage JSON. Vérifiez le fichier de configuration.")
+    except toml.TomlDecodeError:
+        print("Erreur de décodage TOML. Vérifiez le fichier de configuration.")
     except FileNotFoundError:
         print("Fichier de configuration non trouvé.")
     except Exception as e:
         print(f"Erreur inattendue : {e}")
-        

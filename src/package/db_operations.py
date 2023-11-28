@@ -1,18 +1,14 @@
 import sqlite3
+import os
 from datetime import datetime, timedelta
-
-class DatabaseManager:
-    """Gestionnaire de la base de données pour l'application de monitoring d'activité.
-
-    Cette classe fournit des méthodes pour configurer, lire et maintenir la base de données SQLite.
-    """
-    DB_NAME = 'activity_data.db'
 
 class DatabaseManager:
     """Gestionnaire de la base de données pour l'application de monitoring d'activité."""
 
-    def __init__(self, db_name='activity_data.db'):
+    def __init__(self, db_name='data/ab.db'):
         """Initialise la base de données en appelant la méthode de configuration."""
+        os.makedirs(os.path.dirname(db_name), exist_ok=True)
+
         self.DB_NAME = db_name
         self.configure_db()
 
@@ -48,19 +44,21 @@ class DatabaseManager:
             conn.commit()
 
     def read_data(self, query, params=()):
-        """Lit les données de la base de données selon une requête SQL donnée.
-
-        Args:
-            query (str): La requête SQL pour lire les données.
-            params (tuple, optional): Les paramètres pour la requête SQL. Par défaut à vide.
-
-        Returns:
-            list: Liste de dictionnaires contenant les données.
-        """
+        """Lit les données de la base de données selon une requête SQL donnée."""
         with sqlite3.connect(self.DB_NAME) as conn:
+            conn.row_factory = sqlite3.Row  # Utiliser sqlite3.Row comme usine de lignes
             cursor = conn.cursor()
             cursor.execute(query, params)
-            return [dict(row) for row in cursor.fetchall()]
+            rows = cursor.fetchall()
+            column_names = [column[0] for column in cursor.description]
+
+            # Convertir chaque ligne en dictionnaire
+            data = []
+            for row in rows:
+                row_data = {column: row[column] for column in column_names}
+                data.append(row_data)
+
+            return data
 
     def get_last_activity(self):
         """Récupère la dernière entrée d'activité de la base de données."""
@@ -84,18 +82,6 @@ class DatabaseManager:
             cursor.execute("UPDATE activity SET end = ? WHERE id = ?", (new_end_time, activity_id))
             conn.commit()
 
-    def clean_old_data(self, age_threshold):
-        """Supprime les données plus anciennes qu'un certain seuil.
-
-        Args:
-            age_threshold (int): L'âge en jours au-delà duquel les données seront supprimées.
-        """
-        delete_date = datetime.now() - timedelta(days=age_threshold)
-        with sqlite3.connect(self.DB_NAME) as conn:
-            cursor = conn.cursor()
-            cursor.execute("DELETE FROM activity WHERE start < ?", (delete_date,))
-            conn.commit()
-
     def verify_integrity(self):
         """Vérifie l'intégrité de la base de données.
 
@@ -112,3 +98,30 @@ class DatabaseManager:
         Cette méthode identifie et supprime ou corrige les enregistrements corrompus.
         """
         # À implémenter selon les besoins spécifiques de détection et de correction de corruption
+
+    def get_activities_between(self, start_date, end_date):
+        """Récupère les activités entre deux dates."""
+        query = "SELECT * FROM activity WHERE start >= ? AND end <= ?"
+        return self.read_data(query, (start_date, end_date))
+
+    def calculate_statistics(self, activities):
+        """Calcule les statistiques à partir des données d'activités fournies."""
+        # Exemple de calcul de statistiques
+        total_activities = len(activities)
+        # Ajoutez ici d'autres calculs de statistiques selon vos besoins
+
+        # Créer un dictionnaire pour les résultats
+        statistics = {
+            "total_activities": total_activities,
+            # Autres statistiques
+        }
+
+        return statistics
+
+    def clean_old_data(self, retention_years):
+        """Supprime les données plus anciennes qu'un certain nombre d'années."""
+        delete_date = datetime.now() - timedelta(days=365 * retention_years)
+        with sqlite3.connect(self.DB_NAME) as conn:
+            cursor = conn.cursor()
+            cursor.execute("DELETE FROM activity WHERE start < ?", (delete_date,))
+            conn.commit()

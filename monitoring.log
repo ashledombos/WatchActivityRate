@@ -2106,3 +2106,1460 @@
 2023-11-08 18:45:39,423 - DEBUG - Activité souris détectée.
 2023-11-08 18:45:39,423 - DEBUG - Nombre total de clics et de scrolls : 11.
 2023-11-08 18:45:39,502 - DEBUG - Activité souris détectée.
+2023-11-08 18:45:52,518 - DEBUG - Activité souris détectée.
+2023-11-08 18:45:52,518 - DEBUG - Nombre total de clics et de scrolls : 12.
+2023-11-08 18:45:52,653 - DEBUG - Activité souris détectée.
+2023-11-08 18:45:55,022 - DEBUG - Activité souris détectée.
+2023-11-08 18:45:55,022 - DEBUG - Nombre total de clics et de scrolls : 13.
+2023-11-08 18:45:55,125 - DEBUG - Activité souris détectée.
+2023-11-08 18:45:56,262 - DEBUG - Activité clavier détectée.
+2023-11-08 18:45:56,262 - DEBUG - Nombre total de clics et de touches : 14.
+2023-11-08 18:45:56,390 - DEBUG - Activité clavier détectée.
+2023-11-08 18:45:56,390 - DEBUG - Nombre total de clics et de touches : 15.
+2023-11-08 18:45:56,390 - INFO - Signal reçu. Arrêt propre...
+2023-11-08 18:45:56,391 - DEBUG - Arrêt du thread de sauvegarde périodique.
+2023-11-08 18:46:00,450 - DEBUG - Arrêt du monitoring des activités clavier et souris.
+2023-11-17 13:51:44,935 - DEBUG - Validation de la configuration.
+2023-11-17 13:51:44,936 - DEBUG - Chargement du fichier de configuration json.
+2023-11-17 13:51:44,936 - DEBUG - Démarrage du thread de sauvegarde périodique.
+2023-11-17 13:51:44,937 - DEBUG - Sauvegarde périodique en cours.
+2023-11-17 13:51:44,937 - INFO - Démarrage de la surveillance des activités... PID : 1629106
+2023-11-17 13:51:51,901 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:51,901 - DEBUG - Nombre total de clics et de touches : 1.
+2023-11-17 13:51:51,923 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:51,924 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-17 13:51:51,987 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:51,988 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-17 13:51:53,571 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:53,572 - DEBUG - Nombre total de clics et de touches : 4.
+2023-11-17 13:51:54,235 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:54,236 - DEBUG - Nombre total de clics et de touches : 5.
+2023-11-17 13:51:54,723 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:54,723 - DEBUG - Nombre total de clics et de touches : 6.
+2023-11-17 13:51:55,107 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:55,107 - DEBUG - Nombre total de clics et de touches : 7.
+2023-11-17 13:51:55,275 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:55,275 - DEBUG - Nombre total de clics et de touches : 8.
+2023-11-17 13:51:55,403 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:55,404 - DEBUG - Nombre total de clics et de touches : 9.
+2023-11-17 13:51:57,211 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:57,211 - DEBUG - Nombre total de clics et de touches : 10.
+2023-11-17 13:51:57,603 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:57,604 - DEBUG - Nombre total de clics et de touches : 11.
+2023-11-17 13:51:58,603 - DEBUG - Activité clavier détectée.
+2023-11-17 13:51:58,604 - DEBUG - Nombre total de clics et de touches : 12.
+2023-11-17 13:52:00,643 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:00,644 - DEBUG - Nombre total de clics et de touches : 13.
+2023-11-17 13:52:00,946 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 13. Minimum requis atteint. Activité valide pour la période.
+2023-11-17 13:52:00,947 - DEBUG - Sauvegarde des données dans la base de données.
+2023-11-17 13:52:01,008 - DEBUG - Temps écoulé depuis la dernière entrée : 760020.0 secondes ; Seuil pour la fusion : 90.0 secondes.
+2023-11-17 13:52:01,012 - DEBUG - Création d'une nouvelle entrée avec heure de début 2023-11-17 13:51:00 et heure de fin 2023-11-17 13:52:00.
+2023-11-17 13:52:01,243 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:01,243 - DEBUG - Nombre total de clics et de touches : 1.
+2023-11-17 13:52:01,843 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:01,843 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-17 13:52:01,883 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:01,883 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-17 13:52:01,923 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:01,924 - DEBUG - Nombre total de clics et de touches : 4.
+2023-11-17 13:52:01,964 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:01,965 - DEBUG - Nombre total de clics et de touches : 5.
+2023-11-17 13:52:02,005 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,005 - DEBUG - Nombre total de clics et de touches : 6.
+2023-11-17 13:52:02,045 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,046 - DEBUG - Nombre total de clics et de touches : 7.
+2023-11-17 13:52:02,086 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,087 - DEBUG - Nombre total de clics et de touches : 8.
+2023-11-17 13:52:02,127 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,128 - DEBUG - Nombre total de clics et de touches : 9.
+2023-11-17 13:52:02,168 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,168 - DEBUG - Nombre total de clics et de touches : 10.
+2023-11-17 13:52:02,208 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,208 - DEBUG - Nombre total de clics et de touches : 11.
+2023-11-17 13:52:02,248 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,248 - DEBUG - Nombre total de clics et de touches : 12.
+2023-11-17 13:52:02,288 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,288 - DEBUG - Nombre total de clics et de touches : 13.
+2023-11-17 13:52:02,328 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,328 - DEBUG - Nombre total de clics et de touches : 14.
+2023-11-17 13:52:02,611 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,612 - DEBUG - Nombre total de clics et de touches : 15.
+2023-11-17 13:52:02,803 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:02,804 - DEBUG - Nombre total de clics et de touches : 16.
+2023-11-17 13:52:03,651 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:03,652 - DEBUG - Nombre total de clics et de touches : 17.
+2023-11-17 13:52:03,835 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:03,836 - DEBUG - Nombre total de clics et de touches : 18.
+2023-11-17 13:52:04,211 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:04,211 - DEBUG - Nombre total de clics et de touches : 19.
+2023-11-17 13:52:04,275 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:04,276 - DEBUG - Nombre total de clics et de touches : 20.
+2023-11-17 13:52:04,395 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:04,396 - DEBUG - Nombre total de clics et de touches : 21.
+2023-11-17 13:52:04,499 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:04,500 - DEBUG - Nombre total de clics et de touches : 22.
+2023-11-17 13:52:05,747 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:05,748 - DEBUG - Nombre total de clics et de touches : 23.
+2023-11-17 13:52:05,899 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:05,899 - DEBUG - Nombre total de clics et de touches : 24.
+2023-11-17 13:52:06,083 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:06,084 - DEBUG - Nombre total de clics et de touches : 25.
+2023-11-17 13:52:06,235 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:06,235 - DEBUG - Nombre total de clics et de touches : 26.
+2023-11-17 13:52:06,627 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:06,628 - DEBUG - Nombre total de clics et de touches : 27.
+2023-11-17 13:52:06,939 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:06,940 - DEBUG - Nombre total de clics et de touches : 28.
+2023-11-17 13:52:07,155 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:07,156 - DEBUG - Nombre total de clics et de touches : 29.
+2023-11-17 13:52:07,315 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:07,316 - DEBUG - Nombre total de clics et de touches : 30.
+2023-11-17 13:52:07,499 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:07,500 - DEBUG - Nombre total de clics et de touches : 31.
+2023-11-17 13:52:09,179 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:09,180 - DEBUG - Nombre total de clics et de touches : 32.
+2023-11-17 13:52:09,364 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:09,364 - DEBUG - Nombre total de clics et de touches : 33.
+2023-11-17 13:52:09,667 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:09,668 - DEBUG - Nombre total de clics et de touches : 34.
+2023-11-17 13:52:10,731 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:10,732 - DEBUG - Nombre total de clics et de touches : 35.
+2023-11-17 13:52:13,460 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:13,461 - DEBUG - Nombre total de clics et de scrolls : 36.
+2023-11-17 13:52:13,491 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:13,492 - DEBUG - Nombre total de clics et de scrolls : 37.
+2023-11-17 13:52:13,523 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:13,524 - DEBUG - Nombre total de clics et de scrolls : 38.
+2023-11-17 13:52:18,683 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:18,684 - DEBUG - Nombre total de clics et de scrolls : 39.
+2023-11-17 13:52:18,779 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:20,611 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:20,611 - DEBUG - Nombre total de clics et de scrolls : 40.
+2023-11-17 13:52:20,691 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:22,883 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:22,884 - DEBUG - Nombre total de clics et de touches : 41.
+2023-11-17 13:52:22,902 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:22,902 - DEBUG - Nombre total de clics et de touches : 42.
+2023-11-17 13:52:23,019 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:23,020 - DEBUG - Nombre total de clics et de touches : 43.
+2023-11-17 13:52:24,747 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:24,748 - DEBUG - Nombre total de clics et de touches : 44.
+2023-11-17 13:52:25,899 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:25,900 - DEBUG - Nombre total de clics et de touches : 45.
+2023-11-17 13:52:28,731 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:28,731 - DEBUG - Nombre total de clics et de touches : 46.
+2023-11-17 13:52:28,915 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:28,916 - DEBUG - Nombre total de clics et de touches : 47.
+2023-11-17 13:52:29,315 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:29,316 - DEBUG - Nombre total de clics et de touches : 48.
+2023-11-17 13:52:29,547 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:29,547 - DEBUG - Nombre total de clics et de touches : 49.
+2023-11-17 13:52:30,427 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:30,427 - DEBUG - Nombre total de clics et de touches : 50.
+2023-11-17 13:52:31,515 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:31,516 - DEBUG - Nombre total de clics et de touches : 51.
+2023-11-17 13:52:31,971 - DEBUG - Activité clavier détectée.
+2023-11-17 13:52:31,972 - DEBUG - Nombre total de clics et de touches : 52.
+2023-11-17 13:52:39,963 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:39,971 - DEBUG - Nombre total de clics et de scrolls : 53.
+2023-11-17 13:52:40,099 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:41,123 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:41,124 - DEBUG - Nombre total de clics et de scrolls : 54.
+2023-11-17 13:52:41,259 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:47,004 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:47,004 - DEBUG - Nombre total de clics et de scrolls : 55.
+2023-11-17 13:52:47,123 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:51,763 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:51,764 - DEBUG - Nombre total de clics et de scrolls : 56.
+2023-11-17 13:52:51,907 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:53,596 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:53,597 - DEBUG - Nombre total de clics et de scrolls : 57.
+2023-11-17 13:52:53,699 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:57,907 - DEBUG - Activité souris détectée.
+2023-11-17 13:52:57,908 - DEBUG - Nombre total de clics et de scrolls : 58.
+2023-11-17 13:53:01,069 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 58. Minimum requis atteint. Activité valide pour la période.
+2023-11-17 13:53:01,070 - DEBUG - Sauvegarde des données dans la base de données.
+2023-11-17 13:53:01,071 - DEBUG - Temps écoulé depuis la dernière entrée : 60.0 secondes ; Seuil pour la fusion : 90.0 secondes.
+2023-11-17 13:53:01,082 - DEBUG - Les conditions pour la fusion sont remplies. Mise à jour de l'heure de fin de la dernière entrée à 2023-11-17 13:53:00.
+2023-11-17 13:53:08,443 - DEBUG - Activité souris détectée.
+2023-11-17 13:53:10,763 - DEBUG - Activité souris détectée.
+2023-11-17 13:53:10,764 - DEBUG - Nombre total de clics et de scrolls : 1.
+2023-11-17 13:53:10,852 - DEBUG - Activité souris détectée.
+2023-11-17 13:53:12,547 - DEBUG - Activité clavier détectée.
+2023-11-17 13:53:12,548 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-17 13:53:12,947 - DEBUG - Activité clavier détectée.
+2023-11-17 13:53:12,948 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-17 13:53:47,091 - DEBUG - Activité souris détectée.
+2023-11-17 13:53:47,092 - DEBUG - Nombre total de clics et de scrolls : 4.
+2023-11-17 13:53:47,211 - DEBUG - Activité souris détectée.
+2023-11-17 13:54:01,141 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 4. Minimum requis de 5 non atteint. Activité invalide pour la période.
+2023-11-17 13:54:19,683 - DEBUG - Activité souris détectée.
+2023-11-17 13:54:19,683 - DEBUG - Nombre total de clics et de scrolls : 1.
+2023-11-17 13:54:19,795 - DEBUG - Activité souris détectée.
+2023-11-17 13:54:22,011 - DEBUG - Activité clavier détectée.
+2023-11-17 13:54:22,012 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-17 13:54:23,003 - DEBUG - Activité clavier détectée.
+2023-11-17 13:54:23,003 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-17 13:54:30,499 - DEBUG - Activité souris détectée.
+2023-11-17 13:54:30,500 - DEBUG - Nombre total de clics et de scrolls : 4.
+2023-11-17 13:54:30,587 - DEBUG - Activité souris détectée.
+2023-11-17 13:54:30,675 - DEBUG - Activité souris détectée.
+2023-11-17 13:54:30,675 - DEBUG - Nombre total de clics et de scrolls : 5.
+2023-11-17 13:54:30,755 - DEBUG - Activité souris détectée.
+2023-11-17 13:54:59,676 - DEBUG - Activité souris détectée.
+2023-11-17 13:54:59,677 - DEBUG - Nombre total de clics et de scrolls : 6.
+2023-11-17 13:55:00,195 - DEBUG - Activité souris détectée.
+2023-11-17 13:55:01,201 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 6. Minimum requis atteint. Activité valide pour la période.
+2023-11-17 13:55:01,202 - DEBUG - Sauvegarde des données dans la base de données.
+2023-11-17 13:55:01,203 - DEBUG - Temps écoulé depuis la dernière entrée : 120.0 secondes ; Seuil pour la fusion : 90.0 secondes.
+2023-11-17 13:55:01,214 - DEBUG - Création d'une nouvelle entrée avec heure de début 2023-11-17 13:54:00 et heure de fin 2023-11-17 13:55:00.
+2023-11-17 13:55:04,372 - DEBUG - Activité souris détectée.
+2023-11-17 13:55:04,372 - DEBUG - Nombre total de clics et de scrolls : 1.
+2023-11-17 13:55:04,491 - DEBUG - Activité souris détectée.
+2023-11-17 13:55:06,132 - DEBUG - Activité clavier détectée.
+2023-11-17 13:55:06,132 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-17 13:55:06,883 - DEBUG - Activité clavier détectée.
+2023-11-17 13:55:06,883 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-17 13:55:37,763 - DEBUG - Activité souris détectée.
+2023-11-17 13:55:37,813 - DEBUG - Nombre total de clics et de scrolls : 4.
+2023-11-17 13:55:39,267 - DEBUG - Activité souris détectée.
+2023-11-17 13:55:39,995 - DEBUG - Activité souris détectée.
+2023-11-17 13:55:39,996 - DEBUG - Nombre total de clics et de scrolls : 5.
+2023-11-17 13:55:40,147 - DEBUG - Activité souris détectée.
+2023-11-17 13:55:41,188 - DEBUG - Activité souris détectée.
+2023-11-17 13:55:41,188 - DEBUG - Nombre total de clics et de scrolls : 6.
+2023-11-17 13:55:41,315 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:01,273 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 6. Minimum requis atteint. Activité valide pour la période.
+2023-11-17 13:56:01,274 - DEBUG - Sauvegarde des données dans la base de données.
+2023-11-17 13:56:01,324 - DEBUG - Temps écoulé depuis la dernière entrée : 60.0 secondes ; Seuil pour la fusion : 90.0 secondes.
+2023-11-17 13:56:01,328 - DEBUG - Les conditions pour la fusion sont remplies. Mise à jour de l'heure de fin de la dernière entrée à 2023-11-17 13:56:00.
+2023-11-17 13:56:24,780 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:24,781 - DEBUG - Nombre total de clics et de scrolls : 1.
+2023-11-17 13:56:24,876 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:27,411 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:27,411 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-17 13:56:27,572 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:27,572 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-17 13:56:29,163 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:29,163 - DEBUG - Nombre total de clics et de scrolls : 4.
+2023-11-17 13:56:30,915 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:31,324 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:31,324 - DEBUG - Nombre total de clics et de scrolls : 5.
+2023-11-17 13:56:31,476 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:32,323 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:32,323 - DEBUG - Nombre total de clics et de scrolls : 6.
+2023-11-17 13:56:32,427 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:32,891 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:32,892 - DEBUG - Nombre total de clics et de touches : 7.
+2023-11-17 13:56:32,987 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:32,988 - DEBUG - Nombre total de clics et de touches : 8.
+2023-11-17 13:56:33,723 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:33,724 - DEBUG - Nombre total de clics et de scrolls : 9.
+2023-11-17 13:56:33,859 - DEBUG - Activité souris détectée.
+2023-11-17 13:56:34,819 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:34,819 - DEBUG - Nombre total de clics et de touches : 10.
+2023-11-17 13:56:35,340 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:35,340 - DEBUG - Nombre total de clics et de touches : 11.
+2023-11-17 13:56:35,795 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:35,796 - DEBUG - Nombre total de clics et de touches : 12.
+2023-11-17 13:56:35,947 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:35,948 - DEBUG - Nombre total de clics et de touches : 13.
+2023-11-17 13:56:36,771 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:36,771 - DEBUG - Nombre total de clics et de touches : 14.
+2023-11-17 13:56:36,915 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:36,916 - DEBUG - Nombre total de clics et de touches : 15.
+2023-11-17 13:56:37,019 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:37,020 - DEBUG - Nombre total de clics et de touches : 16.
+2023-11-17 13:56:37,220 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:37,220 - DEBUG - Nombre total de clics et de touches : 17.
+2023-11-17 13:56:37,372 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:37,372 - DEBUG - Nombre total de clics et de touches : 18.
+2023-11-17 13:56:37,548 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:37,548 - DEBUG - Nombre total de clics et de touches : 19.
+2023-11-17 13:56:37,731 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:37,731 - DEBUG - Nombre total de clics et de touches : 20.
+2023-11-17 13:56:38,060 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:38,060 - DEBUG - Nombre total de clics et de touches : 21.
+2023-11-17 13:56:38,235 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:38,236 - DEBUG - Nombre total de clics et de touches : 22.
+2023-11-17 13:56:38,444 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:38,444 - DEBUG - Nombre total de clics et de touches : 23.
+2023-11-17 13:56:38,660 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:38,660 - DEBUG - Nombre total de clics et de touches : 24.
+2023-11-17 13:56:39,187 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:39,187 - DEBUG - Nombre total de clics et de touches : 25.
+2023-11-17 13:56:39,411 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:39,412 - DEBUG - Nombre total de clics et de touches : 26.
+2023-11-17 13:56:39,595 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:39,596 - DEBUG - Nombre total de clics et de touches : 27.
+2023-11-17 13:56:40,052 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:40,052 - DEBUG - Nombre total de clics et de touches : 28.
+2023-11-17 13:56:40,388 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:40,388 - DEBUG - Nombre total de clics et de touches : 29.
+2023-11-17 13:56:40,556 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:40,556 - DEBUG - Nombre total de clics et de touches : 30.
+2023-11-17 13:56:40,780 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:40,780 - DEBUG - Nombre total de clics et de touches : 31.
+2023-11-17 13:56:40,956 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:40,956 - DEBUG - Nombre total de clics et de touches : 32.
+2023-11-17 13:56:41,164 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:41,164 - DEBUG - Nombre total de clics et de touches : 33.
+2023-11-17 13:56:41,308 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:41,308 - DEBUG - Nombre total de clics et de touches : 34.
+2023-11-17 13:56:41,476 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:41,476 - DEBUG - Nombre total de clics et de touches : 35.
+2023-11-17 13:56:41,723 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:41,723 - DEBUG - Nombre total de clics et de touches : 36.
+2023-11-17 13:56:41,948 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:41,948 - DEBUG - Nombre total de clics et de touches : 37.
+2023-11-17 13:56:42,379 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:42,379 - DEBUG - Nombre total de clics et de touches : 38.
+2023-11-17 13:56:42,476 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:42,476 - DEBUG - Nombre total de clics et de touches : 39.
+2023-11-17 13:56:42,555 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:42,556 - DEBUG - Nombre total de clics et de touches : 40.
+2023-11-17 13:56:42,668 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:42,668 - DEBUG - Nombre total de clics et de touches : 41.
+2023-11-17 13:56:42,820 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:42,820 - DEBUG - Nombre total de clics et de touches : 42.
+2023-11-17 13:56:42,963 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:42,964 - DEBUG - Nombre total de clics et de touches : 43.
+2023-11-17 13:56:43,163 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:43,164 - DEBUG - Nombre total de clics et de touches : 44.
+2023-11-17 13:56:43,300 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:43,300 - DEBUG - Nombre total de clics et de touches : 45.
+2023-11-17 13:56:43,379 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:43,379 - DEBUG - Nombre total de clics et de touches : 46.
+2023-11-17 13:56:43,484 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:43,484 - DEBUG - Nombre total de clics et de touches : 47.
+2023-11-17 13:56:43,699 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:43,699 - DEBUG - Nombre total de clics et de touches : 48.
+2023-11-17 13:56:43,836 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:43,836 - DEBUG - Nombre total de clics et de touches : 49.
+2023-11-17 13:56:43,988 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:43,988 - DEBUG - Nombre total de clics et de touches : 50.
+2023-11-17 13:56:44,164 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:44,164 - DEBUG - Nombre total de clics et de touches : 51.
+2023-11-17 13:56:44,316 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:44,316 - DEBUG - Nombre total de clics et de touches : 52.
+2023-11-17 13:56:44,803 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:44,804 - DEBUG - Nombre total de clics et de touches : 53.
+2023-11-17 13:56:44,908 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:44,908 - DEBUG - Nombre total de clics et de touches : 54.
+2023-11-17 13:56:45,011 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:45,012 - DEBUG - Nombre total de clics et de touches : 55.
+2023-11-17 13:56:45,532 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:45,532 - DEBUG - Nombre total de clics et de touches : 56.
+2023-11-17 13:56:45,780 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:45,780 - DEBUG - Nombre total de clics et de touches : 57.
+2023-11-17 13:56:45,964 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:45,964 - DEBUG - Nombre total de clics et de touches : 58.
+2023-11-17 13:56:46,196 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:46,196 - DEBUG - Nombre total de clics et de touches : 59.
+2023-11-17 13:56:46,364 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:46,364 - DEBUG - Nombre total de clics et de touches : 60.
+2023-11-17 13:56:46,523 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:46,524 - DEBUG - Nombre total de clics et de touches : 61.
+2023-11-17 13:56:46,651 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:46,652 - DEBUG - Nombre total de clics et de touches : 62.
+2023-11-17 13:56:46,843 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:46,843 - DEBUG - Nombre total de clics et de touches : 63.
+2023-11-17 13:56:47,620 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:47,667 - DEBUG - Nombre total de clics et de touches : 64.
+2023-11-17 13:56:48,219 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,219 - DEBUG - Nombre total de clics et de touches : 65.
+2023-11-17 13:56:48,260 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,260 - DEBUG - Nombre total de clics et de touches : 66.
+2023-11-17 13:56:48,300 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,301 - DEBUG - Nombre total de clics et de touches : 67.
+2023-11-17 13:56:48,341 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,341 - DEBUG - Nombre total de clics et de touches : 68.
+2023-11-17 13:56:48,381 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,381 - DEBUG - Nombre total de clics et de touches : 69.
+2023-11-17 13:56:48,421 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,421 - DEBUG - Nombre total de clics et de touches : 70.
+2023-11-17 13:56:48,461 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,461 - DEBUG - Nombre total de clics et de touches : 71.
+2023-11-17 13:56:48,502 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,502 - DEBUG - Nombre total de clics et de touches : 72.
+2023-11-17 13:56:48,542 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,542 - DEBUG - Nombre total de clics et de touches : 73.
+2023-11-17 13:56:48,582 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,582 - DEBUG - Nombre total de clics et de touches : 74.
+2023-11-17 13:56:48,623 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,623 - DEBUG - Nombre total de clics et de touches : 75.
+2023-11-17 13:56:48,663 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,663 - DEBUG - Nombre total de clics et de touches : 76.
+2023-11-17 13:56:48,703 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,703 - DEBUG - Nombre total de clics et de touches : 77.
+2023-11-17 13:56:48,743 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,744 - DEBUG - Nombre total de clics et de touches : 78.
+2023-11-17 13:56:48,783 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,783 - DEBUG - Nombre total de clics et de touches : 79.
+2023-11-17 13:56:48,824 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,824 - DEBUG - Nombre total de clics et de touches : 80.
+2023-11-17 13:56:48,864 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,864 - DEBUG - Nombre total de clics et de touches : 81.
+2023-11-17 13:56:48,903 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,904 - DEBUG - Nombre total de clics et de touches : 82.
+2023-11-17 13:56:48,945 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,945 - DEBUG - Nombre total de clics et de touches : 83.
+2023-11-17 13:56:48,985 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:48,986 - DEBUG - Nombre total de clics et de touches : 84.
+2023-11-17 13:56:49,025 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:49,025 - DEBUG - Nombre total de clics et de touches : 85.
+2023-11-17 13:56:49,065 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:49,065 - DEBUG - Nombre total de clics et de touches : 86.
+2023-11-17 13:56:49,105 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:49,105 - DEBUG - Nombre total de clics et de touches : 87.
+2023-11-17 13:56:49,145 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:49,146 - DEBUG - Nombre total de clics et de touches : 88.
+2023-11-17 13:56:49,185 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:49,186 - DEBUG - Nombre total de clics et de touches : 89.
+2023-11-17 13:56:49,225 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:49,225 - DEBUG - Nombre total de clics et de touches : 90.
+2023-11-17 13:56:49,444 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:49,444 - DEBUG - Nombre total de clics et de touches : 91.
+2023-11-17 13:56:49,627 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:49,628 - DEBUG - Nombre total de clics et de touches : 92.
+2023-11-17 13:56:49,804 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:49,804 - DEBUG - Nombre total de clics et de touches : 93.
+2023-11-17 13:56:50,164 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:50,164 - DEBUG - Nombre total de clics et de touches : 94.
+2023-11-17 13:56:50,436 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:50,436 - DEBUG - Nombre total de clics et de touches : 95.
+2023-11-17 13:56:50,812 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:50,812 - DEBUG - Nombre total de clics et de touches : 96.
+2023-11-17 13:56:51,011 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:51,011 - DEBUG - Nombre total de clics et de touches : 97.
+2023-11-17 13:56:51,196 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:51,196 - DEBUG - Nombre total de clics et de touches : 98.
+2023-11-17 13:56:51,844 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:51,844 - DEBUG - Nombre total de clics et de touches : 99.
+2023-11-17 13:56:51,931 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:51,932 - DEBUG - Nombre total de clics et de touches : 100.
+2023-11-17 13:56:51,987 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:51,987 - DEBUG - Nombre total de clics et de touches : 101.
+2023-11-17 13:56:52,884 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:52,884 - DEBUG - Nombre total de clics et de touches : 102.
+2023-11-17 13:56:53,332 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:53,332 - DEBUG - Nombre total de clics et de touches : 103.
+2023-11-17 13:56:53,932 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:53,932 - DEBUG - Nombre total de clics et de touches : 104.
+2023-11-17 13:56:53,972 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:53,972 - DEBUG - Nombre total de clics et de touches : 105.
+2023-11-17 13:56:54,012 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,012 - DEBUG - Nombre total de clics et de touches : 106.
+2023-11-17 13:56:54,052 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,052 - DEBUG - Nombre total de clics et de touches : 107.
+2023-11-17 13:56:54,092 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,092 - DEBUG - Nombre total de clics et de touches : 108.
+2023-11-17 13:56:54,133 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,133 - DEBUG - Nombre total de clics et de touches : 109.
+2023-11-17 13:56:54,173 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,173 - DEBUG - Nombre total de clics et de touches : 110.
+2023-11-17 13:56:54,213 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,213 - DEBUG - Nombre total de clics et de touches : 111.
+2023-11-17 13:56:54,253 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,253 - DEBUG - Nombre total de clics et de touches : 112.
+2023-11-17 13:56:54,292 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,293 - DEBUG - Nombre total de clics et de touches : 113.
+2023-11-17 13:56:54,334 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,334 - DEBUG - Nombre total de clics et de touches : 114.
+2023-11-17 13:56:54,374 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,374 - DEBUG - Nombre total de clics et de touches : 115.
+2023-11-17 13:56:54,414 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,414 - DEBUG - Nombre total de clics et de touches : 116.
+2023-11-17 13:56:54,454 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,455 - DEBUG - Nombre total de clics et de touches : 117.
+2023-11-17 13:56:54,495 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,496 - DEBUG - Nombre total de clics et de touches : 118.
+2023-11-17 13:56:54,536 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,537 - DEBUG - Nombre total de clics et de touches : 119.
+2023-11-17 13:56:54,577 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,577 - DEBUG - Nombre total de clics et de touches : 120.
+2023-11-17 13:56:54,618 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,619 - DEBUG - Nombre total de clics et de touches : 121.
+2023-11-17 13:56:54,779 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,780 - DEBUG - Nombre total de clics et de touches : 122.
+2023-11-17 13:56:54,971 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:54,971 - DEBUG - Nombre total de clics et de touches : 123.
+2023-11-17 13:56:55,148 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:55,148 - DEBUG - Nombre total de clics et de touches : 124.
+2023-11-17 13:56:56,068 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:56,068 - DEBUG - Nombre total de clics et de touches : 125.
+2023-11-17 13:56:56,220 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:56,220 - DEBUG - Nombre total de clics et de touches : 126.
+2023-11-17 13:56:56,355 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:56,356 - DEBUG - Nombre total de clics et de touches : 127.
+2023-11-17 13:56:56,419 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:56,420 - DEBUG - Nombre total de clics et de touches : 128.
+2023-11-17 13:56:56,580 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:56,580 - DEBUG - Nombre total de clics et de touches : 129.
+2023-11-17 13:56:56,707 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:56,708 - DEBUG - Nombre total de clics et de touches : 130.
+2023-11-17 13:56:56,836 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:56,836 - DEBUG - Nombre total de clics et de touches : 131.
+2023-11-17 13:56:57,060 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:57,060 - DEBUG - Nombre total de clics et de touches : 132.
+2023-11-17 13:56:57,284 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:57,284 - DEBUG - Nombre total de clics et de touches : 133.
+2023-11-17 13:56:57,500 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:57,500 - DEBUG - Nombre total de clics et de touches : 134.
+2023-11-17 13:56:57,620 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:57,620 - DEBUG - Nombre total de clics et de touches : 135.
+2023-11-17 13:56:57,916 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:57,916 - DEBUG - Nombre total de clics et de touches : 136.
+2023-11-17 13:56:58,075 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:58,076 - DEBUG - Nombre total de clics et de touches : 137.
+2023-11-17 13:56:58,340 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:58,340 - DEBUG - Nombre total de clics et de touches : 138.
+2023-11-17 13:56:58,540 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:58,540 - DEBUG - Nombre total de clics et de touches : 139.
+2023-11-17 13:56:58,635 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:58,636 - DEBUG - Nombre total de clics et de touches : 140.
+2023-11-17 13:56:58,771 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:58,772 - DEBUG - Nombre total de clics et de touches : 141.
+2023-11-17 13:56:58,835 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:58,835 - DEBUG - Nombre total de clics et de touches : 142.
+2023-11-17 13:56:58,964 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:58,965 - DEBUG - Nombre total de clics et de touches : 143.
+2023-11-17 13:56:59,132 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:59,132 - DEBUG - Nombre total de clics et de touches : 144.
+2023-11-17 13:56:59,292 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:59,292 - DEBUG - Nombre total de clics et de touches : 145.
+2023-11-17 13:56:59,427 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:59,427 - DEBUG - Nombre total de clics et de touches : 146.
+2023-11-17 13:56:59,676 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:59,676 - DEBUG - Nombre total de clics et de touches : 147.
+2023-11-17 13:56:59,779 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:59,780 - DEBUG - Nombre total de clics et de touches : 148.
+2023-11-17 13:56:59,988 - DEBUG - Activité clavier détectée.
+2023-11-17 13:56:59,988 - DEBUG - Nombre total de clics et de touches : 149.
+2023-11-17 13:57:00,204 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:00,204 - DEBUG - Nombre total de clics et de touches : 150.
+2023-11-17 13:57:00,340 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:00,340 - DEBUG - Nombre total de clics et de touches : 151.
+2023-11-17 13:57:00,483 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:00,484 - DEBUG - Nombre total de clics et de touches : 152.
+2023-11-17 13:57:00,587 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:00,588 - DEBUG - Nombre total de clics et de touches : 153.
+2023-11-17 13:57:00,700 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:00,700 - DEBUG - Nombre total de clics et de touches : 154.
+2023-11-17 13:57:00,876 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:00,876 - DEBUG - Nombre total de clics et de touches : 155.
+2023-11-17 13:57:01,060 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:01,060 - DEBUG - Nombre total de clics et de touches : 156.
+2023-11-17 13:57:01,203 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:01,203 - DEBUG - Nombre total de clics et de touches : 157.
+2023-11-17 13:57:01,356 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:01,356 - DEBUG - Nombre total de clics et de touches : 158.
+2023-11-17 13:57:01,385 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 158. Minimum requis atteint. Activité valide pour la période.
+2023-11-17 13:57:01,386 - DEBUG - Sauvegarde des données dans la base de données.
+2023-11-17 13:57:01,387 - DEBUG - Temps écoulé depuis la dernière entrée : 60.0 secondes ; Seuil pour la fusion : 90.0 secondes.
+2023-11-17 13:57:01,397 - DEBUG - Les conditions pour la fusion sont remplies. Mise à jour de l'heure de fin de la dernière entrée à 2023-11-17 13:57:00.
+2023-11-17 13:57:01,484 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:01,484 - DEBUG - Nombre total de clics et de touches : 1.
+2023-11-17 13:57:01,555 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:01,555 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-17 13:57:01,748 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:01,748 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-17 13:57:01,827 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:01,827 - DEBUG - Nombre total de clics et de touches : 4.
+2023-11-17 13:57:01,988 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:01,988 - DEBUG - Nombre total de clics et de touches : 5.
+2023-11-17 13:57:02,124 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:02,124 - DEBUG - Nombre total de clics et de touches : 6.
+2023-11-17 13:57:02,292 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:02,292 - DEBUG - Nombre total de clics et de touches : 7.
+2023-11-17 13:57:02,420 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:02,420 - DEBUG - Nombre total de clics et de touches : 8.
+2023-11-17 13:57:02,547 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:02,548 - DEBUG - Nombre total de clics et de touches : 9.
+2023-11-17 13:57:02,620 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:02,620 - DEBUG - Nombre total de clics et de touches : 10.
+2023-11-17 13:57:02,764 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:02,764 - DEBUG - Nombre total de clics et de touches : 11.
+2023-11-17 13:57:02,963 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:02,964 - DEBUG - Nombre total de clics et de touches : 12.
+2023-11-17 13:57:04,700 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:04,700 - DEBUG - Nombre total de clics et de touches : 13.
+2023-11-17 13:57:04,876 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:04,876 - DEBUG - Nombre total de clics et de touches : 14.
+2023-11-17 13:57:05,132 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:05,132 - DEBUG - Nombre total de clics et de touches : 15.
+2023-11-17 13:57:05,452 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:05,452 - DEBUG - Nombre total de clics et de touches : 16.
+2023-11-17 13:57:05,764 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:05,764 - DEBUG - Nombre total de clics et de touches : 17.
+2023-11-17 13:57:07,412 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:07,412 - DEBUG - Nombre total de clics et de touches : 18.
+2023-11-17 13:57:07,868 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:07,868 - DEBUG - Nombre total de clics et de touches : 19.
+2023-11-17 13:57:08,364 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:08,364 - DEBUG - Nombre total de clics et de touches : 20.
+2023-11-17 13:57:10,740 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:10,740 - DEBUG - Nombre total de clics et de touches : 21.
+2023-11-17 13:57:11,044 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:11,044 - DEBUG - Nombre total de clics et de touches : 22.
+2023-11-17 13:57:11,252 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:11,252 - DEBUG - Nombre total de clics et de touches : 23.
+2023-11-17 13:57:11,403 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:11,404 - DEBUG - Nombre total de clics et de touches : 24.
+2023-11-17 13:57:11,540 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:11,540 - DEBUG - Nombre total de clics et de touches : 25.
+2023-11-17 13:57:11,668 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:11,668 - DEBUG - Nombre total de clics et de touches : 26.
+2023-11-17 13:57:11,772 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:11,772 - DEBUG - Nombre total de clics et de touches : 27.
+2023-11-17 13:57:11,900 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:11,900 - DEBUG - Nombre total de clics et de touches : 28.
+2023-11-17 13:57:12,108 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:12,108 - DEBUG - Nombre total de clics et de touches : 29.
+2023-11-17 13:57:12,620 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:12,620 - DEBUG - Nombre total de clics et de touches : 30.
+2023-11-17 13:57:12,699 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:12,700 - DEBUG - Nombre total de clics et de touches : 31.
+2023-11-17 13:57:12,787 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:12,788 - DEBUG - Nombre total de clics et de touches : 32.
+2023-11-17 13:57:12,940 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:12,940 - DEBUG - Nombre total de clics et de touches : 33.
+2023-11-17 13:57:13,051 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:13,052 - DEBUG - Nombre total de clics et de touches : 34.
+2023-11-17 13:57:13,211 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:13,212 - DEBUG - Nombre total de clics et de touches : 35.
+2023-11-17 13:57:13,452 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:13,452 - DEBUG - Nombre total de clics et de touches : 36.
+2023-11-17 13:57:13,676 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:13,676 - DEBUG - Nombre total de clics et de touches : 37.
+2023-11-17 13:57:13,996 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:13,996 - DEBUG - Nombre total de clics et de touches : 38.
+2023-11-17 13:57:14,124 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:14,124 - DEBUG - Nombre total de clics et de touches : 39.
+2023-11-17 13:57:14,252 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:14,252 - DEBUG - Nombre total de clics et de touches : 40.
+2023-11-17 13:57:14,468 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:14,468 - DEBUG - Nombre total de clics et de touches : 41.
+2023-11-17 13:57:14,572 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:14,572 - DEBUG - Nombre total de clics et de touches : 42.
+2023-11-17 13:57:14,764 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:14,764 - DEBUG - Nombre total de clics et de touches : 43.
+2023-11-17 13:57:14,940 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:14,940 - DEBUG - Nombre total de clics et de touches : 44.
+2023-11-17 13:57:15,108 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:15,108 - DEBUG - Nombre total de clics et de touches : 45.
+2023-11-17 13:57:15,195 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:15,195 - DEBUG - Nombre total de clics et de touches : 46.
+2023-11-17 13:57:15,364 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:15,364 - DEBUG - Nombre total de clics et de touches : 47.
+2023-11-17 13:57:15,443 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:15,444 - DEBUG - Nombre total de clics et de touches : 48.
+2023-11-17 13:57:15,604 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:15,604 - DEBUG - Nombre total de clics et de touches : 49.
+2023-11-17 13:57:15,756 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:15,756 - DEBUG - Nombre total de clics et de touches : 50.
+2023-11-17 13:57:15,883 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:15,883 - DEBUG - Nombre total de clics et de touches : 51.
+2023-11-17 13:57:16,187 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:16,187 - DEBUG - Nombre total de clics et de touches : 52.
+2023-11-17 13:57:16,660 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:16,660 - DEBUG - Nombre total de clics et de touches : 53.
+2023-11-17 13:57:16,844 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:16,844 - DEBUG - Nombre total de clics et de touches : 54.
+2023-11-17 13:57:17,020 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:17,020 - DEBUG - Nombre total de clics et de touches : 55.
+2023-11-17 13:57:17,172 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:17,172 - DEBUG - Nombre total de clics et de touches : 56.
+2023-11-17 13:57:17,388 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:17,388 - DEBUG - Nombre total de clics et de touches : 57.
+2023-11-17 13:57:17,788 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:17,788 - DEBUG - Nombre total de clics et de touches : 58.
+2023-11-17 13:57:17,963 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:17,963 - DEBUG - Nombre total de clics et de touches : 59.
+2023-11-17 13:57:18,156 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:18,156 - DEBUG - Nombre total de clics et de touches : 60.
+2023-11-17 13:57:18,788 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:18,788 - DEBUG - Nombre total de clics et de touches : 61.
+2023-11-17 13:57:18,932 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:18,932 - DEBUG - Nombre total de clics et de touches : 62.
+2023-11-17 13:57:19,036 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:19,036 - DEBUG - Nombre total de clics et de touches : 63.
+2023-11-17 13:57:19,140 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:19,140 - DEBUG - Nombre total de clics et de touches : 64.
+2023-11-17 13:57:19,284 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:19,284 - DEBUG - Nombre total de clics et de touches : 65.
+2023-11-17 13:57:19,588 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:19,588 - DEBUG - Nombre total de clics et de touches : 66.
+2023-11-17 13:57:19,691 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:19,692 - DEBUG - Nombre total de clics et de touches : 67.
+2023-11-17 13:57:19,844 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:19,844 - DEBUG - Nombre total de clics et de touches : 68.
+2023-11-17 13:57:20,084 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:20,084 - DEBUG - Nombre total de clics et de touches : 69.
+2023-11-17 13:57:20,196 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:20,196 - DEBUG - Nombre total de clics et de touches : 70.
+2023-11-17 13:57:20,324 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:20,324 - DEBUG - Nombre total de clics et de touches : 71.
+2023-11-17 13:57:20,492 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:20,492 - DEBUG - Nombre total de clics et de touches : 72.
+2023-11-17 13:57:20,699 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:20,700 - DEBUG - Nombre total de clics et de touches : 73.
+2023-11-17 13:57:20,916 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:20,916 - DEBUG - Nombre total de clics et de touches : 74.
+2023-11-17 13:57:20,996 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:20,996 - DEBUG - Nombre total de clics et de touches : 75.
+2023-11-17 13:57:21,196 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:21,197 - DEBUG - Nombre total de clics et de touches : 76.
+2023-11-17 13:57:21,371 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:21,371 - DEBUG - Nombre total de clics et de touches : 77.
+2023-11-17 13:57:21,476 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:21,476 - DEBUG - Nombre total de clics et de touches : 78.
+2023-11-17 13:57:21,580 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:21,580 - DEBUG - Nombre total de clics et de touches : 79.
+2023-11-17 13:57:21,676 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:21,676 - DEBUG - Nombre total de clics et de touches : 80.
+2023-11-17 13:57:21,860 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:21,860 - DEBUG - Nombre total de clics et de touches : 81.
+2023-11-17 13:57:21,963 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:21,964 - DEBUG - Nombre total de clics et de touches : 82.
+2023-11-17 13:57:22,148 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:22,148 - DEBUG - Nombre total de clics et de touches : 83.
+2023-11-17 13:57:22,300 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:22,300 - DEBUG - Nombre total de clics et de touches : 84.
+2023-11-17 13:57:22,540 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:22,540 - DEBUG - Nombre total de clics et de touches : 85.
+2023-11-17 13:57:23,604 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:23,605 - DEBUG - Nombre total de clics et de touches : 86.
+2023-11-17 13:57:23,796 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:23,796 - DEBUG - Nombre total de clics et de touches : 87.
+2023-11-17 13:57:23,956 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:23,956 - DEBUG - Nombre total de clics et de touches : 88.
+2023-11-17 13:57:24,131 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:24,131 - DEBUG - Nombre total de clics et de touches : 89.
+2023-11-17 13:57:24,772 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:24,772 - DEBUG - Nombre total de clics et de touches : 90.
+2023-11-17 13:57:24,955 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:24,955 - DEBUG - Nombre total de clics et de touches : 91.
+2023-11-17 13:57:25,028 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:25,028 - DEBUG - Nombre total de clics et de touches : 92.
+2023-11-17 13:57:25,220 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:25,220 - DEBUG - Nombre total de clics et de touches : 93.
+2023-11-17 13:57:25,523 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:25,523 - DEBUG - Nombre total de clics et de touches : 94.
+2023-11-17 13:57:25,708 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:25,708 - DEBUG - Nombre total de clics et de touches : 95.
+2023-11-17 13:57:25,827 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:25,828 - DEBUG - Nombre total de clics et de touches : 96.
+2023-11-17 13:57:25,940 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:25,940 - DEBUG - Nombre total de clics et de touches : 97.
+2023-11-17 13:57:26,051 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:26,052 - DEBUG - Nombre total de clics et de touches : 98.
+2023-11-17 13:57:26,195 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:26,195 - DEBUG - Nombre total de clics et de touches : 99.
+2023-11-17 13:57:26,268 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:26,268 - DEBUG - Nombre total de clics et de touches : 100.
+2023-11-17 13:57:26,396 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:26,396 - DEBUG - Nombre total de clics et de touches : 101.
+2023-11-17 13:57:26,539 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:26,539 - DEBUG - Nombre total de clics et de touches : 102.
+2023-11-17 13:57:27,316 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:27,316 - DEBUG - Nombre total de clics et de touches : 103.
+2023-11-17 13:57:27,516 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:27,516 - DEBUG - Nombre total de clics et de touches : 104.
+2023-11-17 13:57:27,635 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:27,636 - DEBUG - Nombre total de clics et de touches : 105.
+2023-11-17 13:57:28,092 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:28,092 - DEBUG - Nombre total de clics et de touches : 106.
+2023-11-17 13:57:28,259 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:28,259 - DEBUG - Nombre total de clics et de touches : 107.
+2023-11-17 13:57:28,595 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:28,596 - DEBUG - Nombre total de clics et de touches : 108.
+2023-11-17 13:57:28,756 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:28,756 - DEBUG - Nombre total de clics et de touches : 109.
+2023-11-17 13:57:29,052 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:29,052 - DEBUG - Nombre total de clics et de touches : 110.
+2023-11-17 13:57:29,100 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:29,100 - DEBUG - Nombre total de clics et de touches : 111.
+2023-11-17 13:57:29,276 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:29,276 - DEBUG - Nombre total de clics et de touches : 112.
+2023-11-17 13:57:29,564 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:29,564 - DEBUG - Nombre total de clics et de touches : 113.
+2023-11-17 13:57:29,908 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:29,908 - DEBUG - Nombre total de clics et de touches : 114.
+2023-11-17 13:57:30,180 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:30,180 - DEBUG - Nombre total de clics et de touches : 115.
+2023-11-17 13:57:30,380 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:30,380 - DEBUG - Nombre total de clics et de touches : 116.
+2023-11-17 13:57:30,540 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:30,540 - DEBUG - Nombre total de clics et de touches : 117.
+2023-11-17 13:57:30,980 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:30,980 - DEBUG - Nombre total de clics et de touches : 118.
+2023-11-17 13:57:31,196 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:31,196 - DEBUG - Nombre total de clics et de touches : 119.
+2023-11-17 13:57:31,476 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:31,476 - DEBUG - Nombre total de clics et de touches : 120.
+2023-11-17 13:57:31,636 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:31,636 - DEBUG - Nombre total de clics et de touches : 121.
+2023-11-17 13:57:31,908 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:31,908 - DEBUG - Nombre total de clics et de touches : 122.
+2023-11-17 13:57:32,083 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:32,084 - DEBUG - Nombre total de clics et de touches : 123.
+2023-11-17 13:57:32,228 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:32,228 - DEBUG - Nombre total de clics et de touches : 124.
+2023-11-17 13:57:32,492 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:32,492 - DEBUG - Nombre total de clics et de touches : 125.
+2023-11-17 13:57:33,532 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:33,532 - DEBUG - Nombre total de clics et de touches : 126.
+2023-11-17 13:57:35,692 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:35,692 - DEBUG - Nombre total de clics et de touches : 127.
+2023-11-17 13:57:35,836 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:35,836 - DEBUG - Nombre total de clics et de touches : 128.
+2023-11-17 13:57:35,964 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:35,964 - DEBUG - Nombre total de clics et de touches : 129.
+2023-11-17 13:57:36,211 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:36,212 - DEBUG - Nombre total de clics et de touches : 130.
+2023-11-17 13:57:36,340 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:36,340 - DEBUG - Nombre total de clics et de touches : 131.
+2023-11-17 13:57:36,564 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:36,564 - DEBUG - Nombre total de clics et de touches : 132.
+2023-11-17 13:57:36,780 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:36,780 - DEBUG - Nombre total de clics et de touches : 133.
+2023-11-17 13:57:37,156 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:37,156 - DEBUG - Nombre total de clics et de touches : 134.
+2023-11-17 13:57:37,324 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:37,324 - DEBUG - Nombre total de clics et de touches : 135.
+2023-11-17 13:57:37,452 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:37,452 - DEBUG - Nombre total de clics et de touches : 136.
+2023-11-17 13:57:37,643 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:37,643 - DEBUG - Nombre total de clics et de touches : 137.
+2023-11-17 13:57:37,812 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:37,812 - DEBUG - Nombre total de clics et de touches : 138.
+2023-11-17 13:57:37,956 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:37,956 - DEBUG - Nombre total de clics et de touches : 139.
+2023-11-17 13:57:38,092 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:38,092 - DEBUG - Nombre total de clics et de touches : 140.
+2023-11-17 13:57:38,204 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:38,204 - DEBUG - Nombre total de clics et de touches : 141.
+2023-11-17 13:57:38,315 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:38,316 - DEBUG - Nombre total de clics et de touches : 142.
+2023-11-17 13:57:38,460 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:38,460 - DEBUG - Nombre total de clics et de touches : 143.
+2023-11-17 13:57:38,571 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:38,572 - DEBUG - Nombre total de clics et de touches : 144.
+2023-11-17 13:57:38,676 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:38,676 - DEBUG - Nombre total de clics et de touches : 145.
+2023-11-17 13:57:38,844 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:38,844 - DEBUG - Nombre total de clics et de touches : 146.
+2023-11-17 13:57:38,916 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:38,916 - DEBUG - Nombre total de clics et de touches : 147.
+2023-11-17 13:57:39,020 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:39,020 - DEBUG - Nombre total de clics et de touches : 148.
+2023-11-17 13:57:39,124 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:39,124 - DEBUG - Nombre total de clics et de touches : 149.
+2023-11-17 13:57:39,228 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:39,228 - DEBUG - Nombre total de clics et de touches : 150.
+2023-11-17 13:57:39,308 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:39,308 - DEBUG - Nombre total de clics et de touches : 151.
+2023-11-17 13:57:39,435 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:39,435 - DEBUG - Nombre total de clics et de touches : 152.
+2023-11-17 13:57:39,548 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:39,548 - DEBUG - Nombre total de clics et de touches : 153.
+2023-11-17 13:57:39,660 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:39,660 - DEBUG - Nombre total de clics et de touches : 154.
+2023-11-17 13:57:39,796 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:39,796 - DEBUG - Nombre total de clics et de touches : 155.
+2023-11-17 13:57:39,900 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:39,900 - DEBUG - Nombre total de clics et de touches : 156.
+2023-11-17 13:57:40,012 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:40,012 - DEBUG - Nombre total de clics et de touches : 157.
+2023-11-17 13:57:40,116 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:40,116 - DEBUG - Nombre total de clics et de touches : 158.
+2023-11-17 13:57:40,931 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:40,931 - DEBUG - Nombre total de clics et de touches : 159.
+2023-11-17 13:57:41,020 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:41,020 - DEBUG - Nombre total de clics et de touches : 160.
+2023-11-17 13:57:41,164 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:41,164 - DEBUG - Nombre total de clics et de touches : 161.
+2023-11-17 13:57:41,364 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:41,364 - DEBUG - Nombre total de clics et de touches : 162.
+2023-11-17 13:57:41,532 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:41,532 - DEBUG - Nombre total de clics et de touches : 163.
+2023-11-17 13:57:41,684 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:41,684 - DEBUG - Nombre total de clics et de touches : 164.
+2023-11-17 13:57:41,852 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:41,852 - DEBUG - Nombre total de clics et de touches : 165.
+2023-11-17 13:57:42,004 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:42,004 - DEBUG - Nombre total de clics et de touches : 166.
+2023-11-17 13:57:42,059 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:42,059 - DEBUG - Nombre total de clics et de touches : 167.
+2023-11-17 13:57:42,324 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:42,324 - DEBUG - Nombre total de clics et de touches : 168.
+2023-11-17 13:57:42,500 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:42,500 - DEBUG - Nombre total de clics et de touches : 169.
+2023-11-17 13:57:42,628 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:42,628 - DEBUG - Nombre total de clics et de touches : 170.
+2023-11-17 13:57:43,419 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:43,419 - DEBUG - Nombre total de clics et de touches : 171.
+2023-11-17 13:57:43,540 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:43,540 - DEBUG - Nombre total de clics et de touches : 172.
+2023-11-17 13:57:44,108 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:44,108 - DEBUG - Nombre total de clics et de touches : 173.
+2023-11-17 13:57:47,068 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:47,068 - DEBUG - Nombre total de clics et de touches : 174.
+2023-11-17 13:57:47,212 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:47,212 - DEBUG - Nombre total de clics et de touches : 175.
+2023-11-17 13:57:47,308 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:47,308 - DEBUG - Nombre total de clics et de touches : 176.
+2023-11-17 13:57:47,700 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:47,700 - DEBUG - Nombre total de clics et de touches : 177.
+2023-11-17 13:57:47,916 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:47,916 - DEBUG - Nombre total de clics et de touches : 178.
+2023-11-17 13:57:48,148 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:48,148 - DEBUG - Nombre total de clics et de touches : 179.
+2023-11-17 13:57:48,340 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:48,340 - DEBUG - Nombre total de clics et de touches : 180.
+2023-11-17 13:57:48,500 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:48,500 - DEBUG - Nombre total de clics et de touches : 181.
+2023-11-17 13:57:48,708 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:48,708 - DEBUG - Nombre total de clics et de touches : 182.
+2023-11-17 13:57:48,892 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:48,892 - DEBUG - Nombre total de clics et de touches : 183.
+2023-11-17 13:57:49,027 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:49,027 - DEBUG - Nombre total de clics et de touches : 184.
+2023-11-17 13:57:49,323 - DEBUG - Activité clavier détectée.
+2023-11-17 13:57:49,323 - DEBUG - Nombre total de clics et de touches : 185.
+2023-11-17 13:58:01,457 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 185. Minimum requis atteint. Activité valide pour la période.
+2023-11-17 13:58:01,457 - DEBUG - Sauvegarde des données dans la base de données.
+2023-11-17 13:58:01,458 - DEBUG - Temps écoulé depuis la dernière entrée : 60.0 secondes ; Seuil pour la fusion : 90.0 secondes.
+2023-11-17 13:58:01,467 - DEBUG - Les conditions pour la fusion sont remplies. Mise à jour de l'heure de fin de la dernière entrée à 2023-11-17 13:58:00.
+2023-11-17 13:58:27,027 - DEBUG - Activité clavier détectée.
+2023-11-17 13:58:27,027 - DEBUG - Nombre total de clics et de touches : 1.
+2023-11-17 13:59:01,525 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 1. Minimum requis de 5 non atteint. Activité invalide pour la période.
+2023-11-17 13:59:36,484 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:36,484 - DEBUG - Nombre total de clics et de touches : 1.
+2023-11-17 13:59:37,084 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,085 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-17 13:59:37,124 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,124 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-17 13:59:37,163 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,164 - DEBUG - Nombre total de clics et de touches : 4.
+2023-11-17 13:59:37,204 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,204 - DEBUG - Nombre total de clics et de touches : 5.
+2023-11-17 13:59:37,245 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,245 - DEBUG - Nombre total de clics et de touches : 6.
+2023-11-17 13:59:37,285 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,286 - DEBUG - Nombre total de clics et de touches : 7.
+2023-11-17 13:59:37,325 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,326 - DEBUG - Nombre total de clics et de touches : 8.
+2023-11-17 13:59:37,366 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,366 - DEBUG - Nombre total de clics et de touches : 9.
+2023-11-17 13:59:37,406 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,406 - DEBUG - Nombre total de clics et de touches : 10.
+2023-11-17 13:59:37,446 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,446 - DEBUG - Nombre total de clics et de touches : 11.
+2023-11-17 13:59:37,485 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,486 - DEBUG - Nombre total de clics et de touches : 12.
+2023-11-17 13:59:37,526 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,526 - DEBUG - Nombre total de clics et de touches : 13.
+2023-11-17 13:59:37,566 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,566 - DEBUG - Nombre total de clics et de touches : 14.
+2023-11-17 13:59:37,606 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,606 - DEBUG - Nombre total de clics et de touches : 15.
+2023-11-17 13:59:37,655 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,655 - DEBUG - Nombre total de clics et de touches : 16.
+2023-11-17 13:59:37,686 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,686 - DEBUG - Nombre total de clics et de touches : 17.
+2023-11-17 13:59:37,726 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,726 - DEBUG - Nombre total de clics et de touches : 18.
+2023-11-17 13:59:37,766 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,767 - DEBUG - Nombre total de clics et de touches : 19.
+2023-11-17 13:59:37,805 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,805 - DEBUG - Nombre total de clics et de touches : 20.
+2023-11-17 13:59:37,846 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,846 - DEBUG - Nombre total de clics et de touches : 21.
+2023-11-17 13:59:37,886 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,887 - DEBUG - Nombre total de clics et de touches : 22.
+2023-11-17 13:59:37,926 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,927 - DEBUG - Nombre total de clics et de touches : 23.
+2023-11-17 13:59:37,967 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:37,968 - DEBUG - Nombre total de clics et de touches : 24.
+2023-11-17 13:59:38,007 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,008 - DEBUG - Nombre total de clics et de touches : 25.
+2023-11-17 13:59:38,048 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,048 - DEBUG - Nombre total de clics et de touches : 26.
+2023-11-17 13:59:38,088 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,088 - DEBUG - Nombre total de clics et de touches : 27.
+2023-11-17 13:59:38,128 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,128 - DEBUG - Nombre total de clics et de touches : 28.
+2023-11-17 13:59:38,168 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,168 - DEBUG - Nombre total de clics et de touches : 29.
+2023-11-17 13:59:38,208 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,208 - DEBUG - Nombre total de clics et de touches : 30.
+2023-11-17 13:59:38,248 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,248 - DEBUG - Nombre total de clics et de touches : 31.
+2023-11-17 13:59:38,288 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,289 - DEBUG - Nombre total de clics et de touches : 32.
+2023-11-17 13:59:38,329 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,330 - DEBUG - Nombre total de clics et de touches : 33.
+2023-11-17 13:59:38,370 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,371 - DEBUG - Nombre total de clics et de touches : 34.
+2023-11-17 13:59:38,411 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,411 - DEBUG - Nombre total de clics et de touches : 35.
+2023-11-17 13:59:38,450 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,451 - DEBUG - Nombre total de clics et de touches : 36.
+2023-11-17 13:59:38,491 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,491 - DEBUG - Nombre total de clics et de touches : 37.
+2023-11-17 13:59:38,532 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,532 - DEBUG - Nombre total de clics et de touches : 38.
+2023-11-17 13:59:38,571 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,572 - DEBUG - Nombre total de clics et de touches : 39.
+2023-11-17 13:59:38,612 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,612 - DEBUG - Nombre total de clics et de touches : 40.
+2023-11-17 13:59:38,652 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,652 - DEBUG - Nombre total de clics et de touches : 41.
+2023-11-17 13:59:38,693 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,693 - DEBUG - Nombre total de clics et de touches : 42.
+2023-11-17 13:59:38,733 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,733 - DEBUG - Nombre total de clics et de touches : 43.
+2023-11-17 13:59:38,773 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,773 - DEBUG - Nombre total de clics et de touches : 44.
+2023-11-17 13:59:38,812 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,813 - DEBUG - Nombre total de clics et de touches : 45.
+2023-11-17 13:59:38,853 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,853 - DEBUG - Nombre total de clics et de touches : 46.
+2023-11-17 13:59:38,894 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,894 - DEBUG - Nombre total de clics et de touches : 47.
+2023-11-17 13:59:38,934 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,935 - DEBUG - Nombre total de clics et de touches : 48.
+2023-11-17 13:59:38,975 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:38,975 - DEBUG - Nombre total de clics et de touches : 49.
+2023-11-17 13:59:39,015 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:39,015 - DEBUG - Nombre total de clics et de touches : 50.
+2023-11-17 13:59:39,056 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:39,056 - DEBUG - Nombre total de clics et de touches : 51.
+2023-11-17 13:59:39,097 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:39,098 - DEBUG - Nombre total de clics et de touches : 52.
+2023-11-17 13:59:39,138 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:39,138 - DEBUG - Nombre total de clics et de touches : 53.
+2023-11-17 13:59:39,179 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:39,179 - DEBUG - Nombre total de clics et de touches : 54.
+2023-11-17 13:59:39,219 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:39,219 - DEBUG - Nombre total de clics et de touches : 55.
+2023-11-17 13:59:39,404 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:39,404 - DEBUG - Nombre total de clics et de touches : 56.
+2023-11-17 13:59:39,651 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:39,651 - DEBUG - Nombre total de clics et de touches : 57.
+2023-11-17 13:59:40,460 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:40,460 - DEBUG - Nombre total de clics et de touches : 58.
+2023-11-17 13:59:41,812 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:41,812 - DEBUG - Nombre total de clics et de touches : 59.
+2023-11-17 13:59:42,035 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:42,035 - DEBUG - Nombre total de clics et de touches : 60.
+2023-11-17 13:59:43,172 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:43,172 - DEBUG - Nombre total de clics et de touches : 61.
+2023-11-17 13:59:43,340 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:43,340 - DEBUG - Nombre total de clics et de touches : 62.
+2023-11-17 13:59:43,996 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:43,996 - DEBUG - Nombre total de clics et de touches : 63.
+2023-11-17 13:59:44,276 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:44,276 - DEBUG - Nombre total de clics et de touches : 64.
+2023-11-17 13:59:44,467 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:44,467 - DEBUG - Nombre total de clics et de touches : 65.
+2023-11-17 13:59:46,668 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:46,668 - DEBUG - Nombre total de clics et de touches : 66.
+2023-11-17 13:59:46,876 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:46,876 - DEBUG - Nombre total de clics et de touches : 67.
+2023-11-17 13:59:49,540 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:49,540 - DEBUG - Nombre total de clics et de touches : 68.
+2023-11-17 13:59:49,692 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:49,692 - DEBUG - Nombre total de clics et de touches : 69.
+2023-11-17 13:59:50,148 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:50,148 - DEBUG - Nombre total de clics et de touches : 70.
+2023-11-17 13:59:50,268 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:50,268 - DEBUG - Nombre total de clics et de touches : 71.
+2023-11-17 13:59:50,412 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:50,412 - DEBUG - Nombre total de clics et de touches : 72.
+2023-11-17 13:59:50,531 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:50,531 - DEBUG - Nombre total de clics et de touches : 73.
+2023-11-17 13:59:50,676 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:50,676 - DEBUG - Nombre total de clics et de touches : 74.
+2023-11-17 13:59:50,812 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:50,812 - DEBUG - Nombre total de clics et de touches : 75.
+2023-11-17 13:59:50,948 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:50,948 - DEBUG - Nombre total de clics et de touches : 76.
+2023-11-17 13:59:51,219 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:51,219 - DEBUG - Nombre total de clics et de touches : 77.
+2023-11-17 13:59:51,532 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:51,532 - DEBUG - Nombre total de clics et de touches : 78.
+2023-11-17 13:59:51,844 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:51,844 - DEBUG - Nombre total de clics et de touches : 79.
+2023-11-17 13:59:52,060 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:52,060 - DEBUG - Nombre total de clics et de touches : 80.
+2023-11-17 13:59:52,164 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:52,164 - DEBUG - Nombre total de clics et de touches : 81.
+2023-11-17 13:59:52,227 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:52,227 - DEBUG - Nombre total de clics et de touches : 82.
+2023-11-17 13:59:52,412 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:52,412 - DEBUG - Nombre total de clics et de touches : 83.
+2023-11-17 13:59:52,611 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:52,611 - DEBUG - Nombre total de clics et de touches : 84.
+2023-11-17 13:59:52,812 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:52,812 - DEBUG - Nombre total de clics et de touches : 85.
+2023-11-17 13:59:53,028 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:53,028 - DEBUG - Nombre total de clics et de touches : 86.
+2023-11-17 13:59:53,099 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:53,099 - DEBUG - Nombre total de clics et de touches : 87.
+2023-11-17 13:59:53,644 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:53,644 - DEBUG - Nombre total de clics et de touches : 88.
+2023-11-17 13:59:53,796 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:53,796 - DEBUG - Nombre total de clics et de touches : 89.
+2023-11-17 13:59:53,995 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:53,996 - DEBUG - Nombre total de clics et de touches : 90.
+2023-11-17 13:59:54,156 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:54,156 - DEBUG - Nombre total de clics et de touches : 91.
+2023-11-17 13:59:54,235 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:54,236 - DEBUG - Nombre total de clics et de touches : 92.
+2023-11-17 13:59:54,396 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:54,396 - DEBUG - Nombre total de clics et de touches : 93.
+2023-11-17 13:59:54,572 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:54,572 - DEBUG - Nombre total de clics et de touches : 94.
+2023-11-17 13:59:54,691 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:54,692 - DEBUG - Nombre total de clics et de touches : 95.
+2023-11-17 13:59:54,820 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:54,820 - DEBUG - Nombre total de clics et de touches : 96.
+2023-11-17 13:59:54,948 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:54,948 - DEBUG - Nombre total de clics et de touches : 97.
+2023-11-17 13:59:55,035 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:55,036 - DEBUG - Nombre total de clics et de touches : 98.
+2023-11-17 13:59:55,236 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:55,236 - DEBUG - Nombre total de clics et de touches : 99.
+2023-11-17 13:59:55,260 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:55,260 - DEBUG - Nombre total de clics et de touches : 100.
+2023-11-17 13:59:55,355 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:55,356 - DEBUG - Nombre total de clics et de touches : 101.
+2023-11-17 13:59:55,468 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:55,468 - DEBUG - Nombre total de clics et de touches : 102.
+2023-11-17 13:59:55,564 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:55,564 - DEBUG - Nombre total de clics et de touches : 103.
+2023-11-17 13:59:55,660 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:55,660 - DEBUG - Nombre total de clics et de touches : 104.
+2023-11-17 13:59:55,764 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:55,764 - DEBUG - Nombre total de clics et de touches : 105.
+2023-11-17 13:59:55,916 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:55,916 - DEBUG - Nombre total de clics et de touches : 106.
+2023-11-17 13:59:56,028 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:56,028 - DEBUG - Nombre total de clics et de touches : 107.
+2023-11-17 13:59:56,204 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:56,204 - DEBUG - Nombre total de clics et de touches : 108.
+2023-11-17 13:59:56,292 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:56,292 - DEBUG - Nombre total de clics et de touches : 109.
+2023-11-17 13:59:56,452 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:56,452 - DEBUG - Nombre total de clics et de touches : 110.
+2023-11-17 13:59:56,540 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:56,540 - DEBUG - Nombre total de clics et de touches : 111.
+2023-11-17 13:59:56,724 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:56,724 - DEBUG - Nombre total de clics et de touches : 112.
+2023-11-17 13:59:56,780 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:56,780 - DEBUG - Nombre total de clics et de touches : 113.
+2023-11-17 13:59:56,908 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:56,908 - DEBUG - Nombre total de clics et de touches : 114.
+2023-11-17 13:59:56,964 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:56,964 - DEBUG - Nombre total de clics et de touches : 115.
+2023-11-17 13:59:57,123 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:57,123 - DEBUG - Nombre total de clics et de touches : 116.
+2023-11-17 13:59:57,276 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:57,276 - DEBUG - Nombre total de clics et de touches : 117.
+2023-11-17 13:59:57,396 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:57,396 - DEBUG - Nombre total de clics et de touches : 118.
+2023-11-17 13:59:57,508 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:57,508 - DEBUG - Nombre total de clics et de touches : 119.
+2023-11-17 13:59:57,620 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:57,620 - DEBUG - Nombre total de clics et de touches : 120.
+2023-11-17 13:59:57,819 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:57,820 - DEBUG - Nombre total de clics et de touches : 121.
+2023-11-17 13:59:57,876 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:57,876 - DEBUG - Nombre total de clics et de touches : 122.
+2023-11-17 13:59:58,028 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:58,028 - DEBUG - Nombre total de clics et de touches : 123.
+2023-11-17 13:59:58,211 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:58,212 - DEBUG - Nombre total de clics et de touches : 124.
+2023-11-17 13:59:58,436 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:58,436 - DEBUG - Nombre total de clics et de touches : 125.
+2023-11-17 13:59:58,579 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:58,580 - DEBUG - Nombre total de clics et de touches : 126.
+2023-11-17 13:59:58,788 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:58,788 - DEBUG - Nombre total de clics et de touches : 127.
+2023-11-17 13:59:58,884 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:58,884 - DEBUG - Nombre total de clics et de touches : 128.
+2023-11-17 13:59:59,156 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:59,156 - DEBUG - Nombre total de clics et de touches : 129.
+2023-11-17 13:59:59,332 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:59,332 - DEBUG - Nombre total de clics et de touches : 130.
+2023-11-17 13:59:59,612 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:59,612 - DEBUG - Nombre total de clics et de touches : 131.
+2023-11-17 13:59:59,804 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:59,804 - DEBUG - Nombre total de clics et de touches : 132.
+2023-11-17 13:59:59,980 - DEBUG - Activité clavier détectée.
+2023-11-17 13:59:59,980 - DEBUG - Nombre total de clics et de touches : 133.
+2023-11-17 14:00:00,380 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:00,380 - DEBUG - Nombre total de clics et de touches : 134.
+2023-11-17 14:00:00,492 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:00,492 - DEBUG - Nombre total de clics et de touches : 135.
+2023-11-17 14:00:00,700 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:00,700 - DEBUG - Nombre total de clics et de touches : 136.
+2023-11-17 14:00:00,787 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:00,788 - DEBUG - Nombre total de clics et de touches : 137.
+2023-11-17 14:00:01,585 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 137. Minimum requis atteint. Activité valide pour la période.
+2023-11-17 14:00:01,585 - DEBUG - Sauvegarde des données dans la base de données.
+2023-11-17 14:00:01,586 - DEBUG - Temps écoulé depuis la dernière entrée : 120.0 secondes ; Seuil pour la fusion : 90.0 secondes.
+2023-11-17 14:00:01,595 - DEBUG - Création d'une nouvelle entrée avec heure de début 2023-11-17 13:59:00 et heure de fin 2023-11-17 14:00:00.
+2023-11-17 14:00:02,020 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:02,020 - DEBUG - Nombre total de clics et de touches : 1.
+2023-11-17 14:00:02,180 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:02,180 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-17 14:00:02,492 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:02,492 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-17 14:00:03,228 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:03,228 - DEBUG - Nombre total de clics et de touches : 4.
+2023-11-17 14:00:03,580 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:03,580 - DEBUG - Nombre total de clics et de touches : 5.
+2023-11-17 14:00:03,972 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:03,972 - DEBUG - Nombre total de clics et de touches : 6.
+2023-11-17 14:00:04,252 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:04,252 - DEBUG - Nombre total de clics et de touches : 7.
+2023-11-17 14:00:04,396 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:04,396 - DEBUG - Nombre total de clics et de touches : 8.
+2023-11-17 14:00:04,548 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:04,548 - DEBUG - Nombre total de clics et de touches : 9.
+2023-11-17 14:00:04,676 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:04,676 - DEBUG - Nombre total de clics et de touches : 10.
+2023-11-17 14:00:04,852 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:04,852 - DEBUG - Nombre total de clics et de touches : 11.
+2023-11-17 14:00:04,971 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:04,972 - DEBUG - Nombre total de clics et de touches : 12.
+2023-11-17 14:00:06,476 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:06,476 - DEBUG - Nombre total de clics et de touches : 13.
+2023-11-17 14:00:06,691 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:06,692 - DEBUG - Nombre total de clics et de touches : 14.
+2023-11-17 14:00:07,980 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:07,980 - DEBUG - Nombre total de clics et de touches : 15.
+2023-11-17 14:00:08,380 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:08,380 - DEBUG - Nombre total de clics et de touches : 16.
+2023-11-17 14:00:09,556 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:09,556 - DEBUG - Nombre total de clics et de touches : 17.
+2023-11-17 14:00:11,228 - DEBUG - Activité souris détectée.
+2023-11-17 14:00:11,228 - DEBUG - Nombre total de clics et de scrolls : 18.
+2023-11-17 14:00:11,340 - DEBUG - Activité souris détectée.
+2023-11-17 14:00:14,492 - DEBUG - Activité souris détectée.
+2023-11-17 14:00:14,492 - DEBUG - Nombre total de clics et de scrolls : 19.
+2023-11-17 14:00:14,587 - DEBUG - Activité souris détectée.
+2023-11-17 14:00:15,372 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:15,372 - DEBUG - Nombre total de clics et de touches : 20.
+2023-11-17 14:00:15,644 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:15,644 - DEBUG - Nombre total de clics et de touches : 21.
+2023-11-17 14:00:16,885 - DEBUG - Activité souris détectée.
+2023-11-17 14:00:16,885 - DEBUG - Nombre total de clics et de scrolls : 22.
+2023-11-17 14:00:16,980 - DEBUG - Activité souris détectée.
+2023-11-17 14:00:17,092 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:17,092 - DEBUG - Nombre total de clics et de touches : 23.
+2023-11-17 14:00:17,236 - DEBUG - Activité clavier détectée.
+2023-11-17 14:00:17,236 - DEBUG - Nombre total de clics et de touches : 24.
+2023-11-17 14:00:17,239 - INFO - Signal reçu. Arrêt propre...
+2023-11-17 14:00:17,239 - DEBUG - Arrêt du thread de sauvegarde périodique.
+2023-11-17 14:00:22,239 - DEBUG - Arrêt du monitoring des activités clavier et souris.
+2023-11-17 15:36:41,341 - DEBUG - Validation de la configuration.
+2023-11-17 15:36:41,341 - DEBUG - Chargement du fichier de configuration json.
+2023-11-17 15:36:41,342 - DEBUG - Démarrage du thread de sauvegarde périodique.
+2023-11-17 15:36:41,342 - DEBUG - Sauvegarde périodique en cours.
+2023-11-17 15:36:41,342 - INFO - Démarrage de la surveillance des activités... PID : 1686903
+2023-11-17 15:36:42,175 - DEBUG - Activité clavier détectée.
+2023-11-17 15:36:42,176 - DEBUG - Nombre total de clics et de touches : 1.
+2023-11-17 15:36:42,438 - DEBUG - Activité clavier détectée.
+2023-11-17 15:36:42,439 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-17 15:36:42,439 - INFO - Signal reçu. Arrêt propre...
+2023-11-17 15:36:42,440 - DEBUG - Arrêt du thread de sauvegarde périodique.
+2023-11-17 15:36:47,440 - DEBUG - Arrêt du monitoring des activités clavier et souris.
+2023-11-22 12:06:29,842 - DEBUG - Validation de la configuration.
+2023-11-22 12:06:29,843 - DEBUG - Chargement du fichier de configuration toml.
+2023-11-22 12:06:29,846 - DEBUG - Démarrage du thread de sauvegarde périodique.
+2023-11-22 12:06:29,846 - DEBUG - Sauvegarde périodique en cours.
+2023-11-22 12:06:29,847 - INFO - Démarrage de la surveillance des activités... PID : 876272
+2023-11-22 12:06:33,539 - DEBUG - Activité souris détectée.
+2023-11-22 12:06:33,539 - DEBUG - Nombre total de clics et de scrolls : 1.
+2023-11-22 12:06:33,642 - DEBUG - Activité souris détectée.
+2023-11-22 12:06:37,130 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:37,131 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-22 12:06:37,258 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:37,259 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-22 12:06:38,602 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:38,603 - DEBUG - Nombre total de clics et de touches : 4.
+2023-11-22 12:06:38,731 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:38,731 - DEBUG - Nombre total de clics et de touches : 5.
+2023-11-22 12:06:38,898 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:38,899 - DEBUG - Nombre total de clics et de touches : 6.
+2023-11-22 12:06:41,226 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:41,226 - DEBUG - Nombre total de clics et de touches : 7.
+2023-11-22 12:06:43,274 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:43,275 - DEBUG - Nombre total de clics et de touches : 8.
+2023-11-22 12:06:44,674 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:44,675 - DEBUG - Nombre total de clics et de touches : 9.
+2023-11-22 12:06:53,250 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:53,250 - DEBUG - Nombre total de clics et de touches : 10.
+2023-11-22 12:06:54,042 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:54,043 - DEBUG - Nombre total de clics et de touches : 11.
+2023-11-22 12:06:57,787 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:57,787 - DEBUG - Nombre total de clics et de touches : 12.
+2023-11-22 12:06:58,059 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:58,059 - DEBUG - Nombre total de clics et de touches : 13.
+2023-11-22 12:06:58,746 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:58,796 - DEBUG - Nombre total de clics et de touches : 14.
+2023-11-22 12:06:58,826 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:58,827 - DEBUG - Nombre total de clics et de touches : 15.
+2023-11-22 12:06:59,747 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:59,747 - DEBUG - Nombre total de clics et de touches : 16.
+2023-11-22 12:06:59,802 - DEBUG - Activité clavier détectée.
+2023-11-22 12:06:59,803 - DEBUG - Nombre total de clics et de touches : 17.
+2023-11-22 12:07:00,877 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 17. Minimum requis atteint. Activité valide pour la période.
+2023-11-22 12:07:00,878 - DEBUG - Sauvegarde des données dans la base de données.
+2023-11-22 12:07:00,890 - DEBUG - Création de la première entrée avec heure de début 2023-11-22 12:06:00 et heure de fin 2023-11-22 12:07:00.
+2023-11-22 12:07:01,691 - DEBUG - Activité souris détectée.
+2023-11-22 12:07:01,692 - DEBUG - Nombre total de clics et de scrolls : 1.
+2023-11-22 12:07:01,778 - DEBUG - Activité souris détectée.
+2023-11-22 12:07:02,226 - DEBUG - Activité clavier détectée.
+2023-11-22 12:07:02,227 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-22 12:07:02,531 - DEBUG - Activité clavier détectée.
+2023-11-22 12:07:02,531 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-22 12:07:02,531 - INFO - Signal reçu. Arrêt propre...
+2023-11-22 12:07:02,532 - DEBUG - Arrêt du thread de sauvegarde périodique.
+2023-11-22 12:07:07,532 - DEBUG - Arrêt du monitoring des activités clavier et souris.
+2023-11-22 12:46:56,920 - DEBUG - Validation de la configuration.
+2023-11-22 12:46:56,920 - DEBUG - Chargement du fichier de configuration toml.
+2023-11-22 12:46:56,921 - DEBUG - Démarrage du thread de sauvegarde périodique.
+2023-11-22 12:46:56,921 - DEBUG - Sauvegarde périodique en cours.
+2023-11-22 12:46:56,922 - INFO - Démarrage de la surveillance des activités... PID : 899506
+2023-11-22 12:46:59,465 - DEBUG - Activité souris détectée.
+2023-11-22 12:46:59,466 - DEBUG - Nombre total de clics et de scrolls : 1.
+2023-11-22 12:46:59,569 - DEBUG - Activité souris détectée.
+2023-11-22 12:47:00,926 - DEBUG - Période de 1 minutes, seuil de 5 évènements. Nombre total d'évènements pendant la période d'activité : 1. Minimum requis de 5 non atteint. Activité invalide pour la période.
+2023-11-22 12:47:01,018 - DEBUG - Activité clavier détectée.
+2023-11-22 12:47:01,018 - DEBUG - Nombre total de clics et de touches : 1.
+2023-11-22 12:47:02,097 - DEBUG - Activité clavier détectée.
+2023-11-22 12:47:02,098 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-22 12:47:07,216 - DEBUG - Activité souris détectée.
+2023-11-22 12:47:07,217 - DEBUG - Nombre total de clics et de scrolls : 3.
+2023-11-22 12:47:07,336 - DEBUG - Activité souris détectée.
+2023-11-22 12:47:07,753 - DEBUG - Activité clavier détectée.
+2023-11-22 12:47:07,754 - DEBUG - Nombre total de clics et de touches : 4.
+2023-11-22 12:47:08,577 - DEBUG - Activité clavier détectée.
+2023-11-22 12:47:08,578 - DEBUG - Nombre total de clics et de touches : 5.
+2023-11-22 12:47:08,578 - INFO - Signal reçu. Arrêt propre...
+2023-11-22 12:47:08,578 - DEBUG - Arrêt du thread de sauvegarde périodique.
+2023-11-22 12:47:09,169 - DEBUG - Activité clavier détectée.
+2023-11-22 12:47:09,169 - DEBUG - Nombre total de clics et de touches : 6.
+2023-11-22 12:47:09,233 - DEBUG - Activité clavier détectée.
+2023-11-22 12:47:09,234 - DEBUG - Nombre total de clics et de touches : 7.
+2023-11-22 12:47:13,579 - DEBUG - Arrêt du monitoring des activités clavier et souris.
+2023-11-22 12:53:19,071 - DEBUG - Validation de la configuration.
+2023-11-22 12:53:19,071 - DEBUG - Chargement du fichier de configuration toml.
+2023-11-22 12:54:17,789 - DEBUG - Validation de la configuration.
+2023-11-22 12:54:17,789 - DEBUG - Chargement du fichier de configuration toml.
+2023-11-22 12:54:17,795 - DEBUG - Démarrage du thread de sauvegarde périodique.
+2023-11-22 12:54:17,795 - DEBUG - Sauvegarde périodique en cours.
+2023-11-22 12:54:17,796 - INFO - Démarrage de la surveillance des activités... PID : 903977
+2023-11-22 12:54:20,659 - DEBUG - Activité souris détectée.
+2023-11-22 12:54:20,659 - DEBUG - Nombre total de clics et de scrolls : 1.
+2023-11-22 12:54:20,795 - DEBUG - Activité souris détectée.
+2023-11-22 12:54:23,267 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:23,267 - DEBUG - Nombre total de clics et de touches : 2.
+2023-11-22 12:54:23,323 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:23,323 - DEBUG - Nombre total de clics et de touches : 3.
+2023-11-22 12:54:23,459 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:23,460 - DEBUG - Nombre total de clics et de touches : 4.
+2023-11-22 12:54:23,563 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:23,564 - DEBUG - Nombre total de clics et de touches : 5.
+2023-11-22 12:54:23,739 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:23,739 - DEBUG - Nombre total de clics et de touches : 6.
+2023-11-22 12:54:24,724 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:24,724 - DEBUG - Nombre total de clics et de touches : 7.
+2023-11-22 12:54:24,843 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:24,844 - DEBUG - Nombre total de clics et de touches : 8.
+2023-11-22 12:54:25,539 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:25,540 - DEBUG - Nombre total de clics et de touches : 9.
+2023-11-22 12:54:25,651 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:25,651 - DEBUG - Nombre total de clics et de touches : 10.
+2023-11-22 12:54:25,860 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:25,860 - DEBUG - Nombre total de clics et de touches : 11.
+2023-11-22 12:54:26,099 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:26,100 - DEBUG - Nombre total de clics et de touches : 12.
+2023-11-22 12:54:26,323 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:26,323 - DEBUG - Nombre total de clics et de touches : 13.
+2023-11-22 12:54:26,555 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:26,556 - DEBUG - Nombre total de clics et de touches : 14.
+2023-11-22 12:54:27,059 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:27,060 - DEBUG - Nombre total de clics et de touches : 15.
+2023-11-22 12:54:27,363 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:27,364 - DEBUG - Nombre total de clics et de touches : 16.
+2023-11-22 12:54:28,603 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:28,604 - DEBUG - Nombre total de clics et de touches : 17.
+2023-11-22 12:54:28,963 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:28,963 - DEBUG - Nombre total de clics et de touches : 18.
+2023-11-22 12:54:29,171 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:29,172 - DEBUG - Nombre total de clics et de touches : 19.
+2023-11-22 12:54:29,515 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:29,516 - DEBUG - Nombre total de clics et de touches : 20.
+2023-11-22 12:54:30,107 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:30,107 - DEBUG - Nombre total de clics et de touches : 21.
+2023-11-22 12:54:30,707 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:30,708 - DEBUG - Nombre total de clics et de touches : 22.
+2023-11-22 12:54:30,748 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:30,749 - DEBUG - Nombre total de clics et de touches : 23.
+2023-11-22 12:54:30,788 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:30,789 - DEBUG - Nombre total de clics et de touches : 24.
+2023-11-22 12:54:30,829 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:30,829 - DEBUG - Nombre total de clics et de touches : 25.
+2023-11-22 12:54:30,870 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:30,870 - DEBUG - Nombre total de clics et de touches : 26.
+2023-11-22 12:54:30,911 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:30,911 - DEBUG - Nombre total de clics et de touches : 27.
+2023-11-22 12:54:30,952 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:30,952 - DEBUG - Nombre total de clics et de touches : 28.
+2023-11-22 12:54:30,991 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:30,992 - DEBUG - Nombre total de clics et de touches : 29.
+2023-11-22 12:54:31,031 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:31,031 - DEBUG - Nombre total de clics et de touches : 30.
+2023-11-22 12:54:31,072 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:31,072 - DEBUG - Nombre total de clics et de touches : 31.
+2023-11-22 12:54:31,113 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:31,114 - DEBUG - Nombre total de clics et de touches : 32.
+2023-11-22 12:54:31,154 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:31,154 - DEBUG - Nombre total de clics et de touches : 33.
+2023-11-22 12:54:31,195 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:31,196 - DEBUG - Nombre total de clics et de touches : 34.
+2023-11-22 12:54:31,236 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:31,236 - DEBUG - Nombre total de clics et de touches : 35.
+2023-11-22 12:54:31,277 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:31,277 - DEBUG - Nombre total de clics et de touches : 36.
+2023-11-22 12:54:32,699 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:32,699 - DEBUG - Nombre total de clics et de touches : 37.
+2023-11-22 12:54:33,507 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:33,508 - DEBUG - Nombre total de clics et de touches : 38.
+2023-11-22 12:54:38,155 - DEBUG - Activité souris détectée.
+2023-11-22 12:54:38,156 - DEBUG - Nombre total de clics et de scrolls : 39.
+2023-11-22 12:54:38,291 - DEBUG - Activité souris détectée.
+2023-11-22 12:54:39,627 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:39,628 - DEBUG - Nombre total de clics et de touches : 40.
+2023-11-22 12:54:39,763 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:39,764 - DEBUG - Nombre total de clics et de touches : 41.
+2023-11-22 12:54:39,764 - INFO - Signal reçu. Arrêt propre...
+2023-11-22 12:54:39,765 - DEBUG - Arrêt du thread de sauvegarde périodique.
+2023-11-22 12:54:41,203 - DEBUG - Activité souris détectée.
+2023-11-22 12:54:41,203 - DEBUG - Nombre total de clics et de scrolls : 42.
+2023-11-22 12:54:41,331 - DEBUG - Activité souris détectée.
+2023-11-22 12:54:42,204 - DEBUG - Activité souris détectée.
+2023-11-22 12:54:42,205 - DEBUG - Nombre total de clics et de scrolls : 43.
+2023-11-22 12:54:42,340 - DEBUG - Activité souris détectée.
+2023-11-22 12:54:42,964 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:42,964 - DEBUG - Nombre total de clics et de touches : 44.
+2023-11-22 12:54:43,307 - DEBUG - Activité clavier détectée.
+2023-11-22 12:54:43,308 - DEBUG - Nombre total de clics et de touches : 45.
+2023-11-22 12:54:44,765 - DEBUG - Arrêt du monitoring des activités clavier et souris.

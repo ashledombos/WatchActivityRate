@@ -1,0 +1,22 @@
+# Configuration pour l'enregistrement périodique
+periodic_save_minutes = 1  # Intervalles en minutes pour sauvegarder les données
+activity_duration_threshold = 5  # Seuil d'activité pour enregistrer les données
+debug_mode = true  # Mode de débogage
+
+# Configuration pour les rapports périodiques
+[daily]
+enabled = true
+schedule = "00:01"  # Heure planifiée pour les rapports quotidiens
+
+[weekly]
+enabled = true
+schedule = "00:01"  # Heure planifiée pour les rapports quotidiens
+
+[monthly]
+enabled = true
+schedule = "00:01"  # Heure planifiée pour les rapports quotidiens
+
+[yearly]
+enabled = true
+schedule = "00:01"  # Heure planifiée pour les rapports quotidiens
+
